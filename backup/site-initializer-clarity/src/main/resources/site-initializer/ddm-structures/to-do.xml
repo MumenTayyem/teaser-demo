@@ -1,0 +1,245 @@
+
+    <?xml version="1.0"?>
+
+<root>
+	<structure>
+		<name>To-Do</name>
+		<description></description>
+		<definition>
+			<![CDATA[
+			{
+          "availableLanguageIds": [
+            "en_US",
+          ],
+          "successPage": { "body": {}, "title": {}, "enabled": false },
+          "defaultLanguageId": "en_US",
+          "fields": [
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Assigned to",
+              },
+              "type": "text",
+              "showLabel": true,
+              "required": false,
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "assignedTo",
+              "localizable": true,
+              "fieldReference": "assignedTo",
+              "tip": {}
+            },
+            {
+              "dataType": "document-library",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Attachment",
+              },
+              "type": "ddm-documentlibrary",
+              "showLabel": true,
+              "required": false,
+              "fieldNamespace": "ddm",
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "attachment",
+              "localizable": true,
+              "fieldReference": "attachment",
+              "tip": {
+                "en_US": "Upload documents no larger than 3,000k.",
+              }
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Comments"
+              },
+              "type": "textarea",
+              "showLabel": true,
+              "required": false,
+              "indexType": "text",
+              "repeatable": false,
+              "name": "comments",
+              "localizable": true,
+              "fieldReference": "comments",
+              "tip": {}
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Description"
+              },
+              "type": "textarea",
+              "showLabel": true,
+              "required": false,
+              "indexType": "text",
+              "repeatable": false,
+              "name": "description",
+              "localizable": true,
+              "fieldReference": "description",
+              "tip": {}
+            },
+            {
+              "dataType": "date",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "end date"
+              },
+              "type": "ddm-date",
+              "showLabel": true,
+              "required": false,
+              "fieldNamespace": "ddm",
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "endDate",
+              "localizable": true,
+              "fieldReference": "endDate",
+              "tip": {}
+            },
+            {
+              "dataType": "integer",
+              "predefinedValue": { "en_US": "0" },
+              "readOnly": false,
+              "label": {
+                "en_US": "% Complete"
+              },
+              "type": "ddm-integer",
+              "showLabel": true,
+              "required": false,
+              "fieldNamespace": "ddm",
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "percentComplete",
+              "localizable": true,
+              "fieldReference": "percentComplete"
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "[\"minor\"]" },
+              "multiple": false,
+              "readOnly": false,
+              "label": {
+                "en_US": "Severity"
+              },
+              "type": "select",
+              "showLabel": true,
+              "required": false,
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "severity",
+              "options": [
+                {
+                  "label": {
+                    "en_US": "Critical"
+                  },
+                  "value": "critical"
+                },
+                {
+                  "label": {
+                    "en_US": "Major"
+                  },
+                  "value": "major"
+                },
+                {
+                  "label": {
+                    "en_US": "Minor"
+                  },
+                  "value": "minor"
+                },
+                {
+                  "label": {
+                    "en_US": "Trivial"
+                  },
+                  "value": "trivial"
+                }
+              ],
+              "localizable": true,
+              "fieldReference": "severity",
+              "tip": {}
+            },
+            {
+              "dataType": "date",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Start Date"
+              },
+              "type": "ddm-date",
+              "showLabel": true,
+              "required": false,
+              "fieldNamespace": "ddm",
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "startDate",
+              "localizable": true,
+              "fieldReference": "startDate",
+              "tip": {}
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "[\"open\"]" },
+              "multiple": false,
+              "readOnly": false,
+              "label": {
+                "en_US": "Status"
+              },
+              "type": "select",
+              "showLabel": true,
+              "required": false,
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "status",
+              "options": [
+                {
+                  "label": {
+                    "en_US": "Open"
+                  },
+                  "value": "open"
+                },
+                {
+                  "label": {
+                    "en_US": "Pending"
+                  },
+                  "value": "pending"
+                },
+                {
+                  "label": {
+                    "en_US": "Completed"
+                  },
+                  "value": "completed"
+                }
+              ],
+              "localizable": true,
+              "fieldReference": "status",
+              "tip": {}
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": { "en_US": "" },
+              "readOnly": false,
+              "label": {
+                "en_US": "Title"
+              },
+              "type": "text",
+              "showLabel": true,
+              "required": false,
+              "indexType": "keyword",
+              "repeatable": false,
+              "name": "title",
+              "localizable": true,
+              "fieldReference": "title",
+              "tip": {}
+            }
+          ]
+        }
+			]]>
+		</definition>
+	</structure>
+</root>

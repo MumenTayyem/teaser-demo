@@ -1,0 +1,95 @@
+[
+	{
+		"categories": [
+			"Sunglasses"
+		],
+		"description": "",
+		"externalReferenceCode": "CLASS_AVIATOR_SUNGLASSES",
+		"images": ["classic-aviator-sunglasses.png"],
+		"name": "Classic Aviator Sunglasses",
+		"options": [
+		],
+		"specificationOptions": [],
+		"height": 2,
+		"length": 7,
+		"minStockQuantity": 5,
+		"price": 29.0,
+		"promoPrice": 18.0,
+		"sku": "CLASS_AVIATOR_SUNGLASSES",
+		"warehouse1": 60
+	},
+	{
+		"categories": [
+			"Contacts"
+		],
+		"description": "",
+		"externalReferenceCode": "AQUACOMFORT_PLUS_DAILIES",
+		"images": ["aquacomfort-plus-dailies.png"],
+		"name": "AquaComfort Plus Dailies",
+		"options": [],
+		"specificationOptions": [],
+		"height": 3,
+		"length": 8,
+		"minStockQuantity": 10,
+		"price": 21.0,
+		"promoPrice": 20.0,
+		"sku": "AQUACOMFORT_PLUS_DAILIES",
+		"warehouse1": 62
+	},
+	{
+		"categories": [
+			"Lenses"
+		],
+		"description": "",
+		"externalReferenceCode": "SINGLE_VISION_LENSES",
+		"images": ["biofinity-toric-lenses.png"],
+		"name": "Single Vision Lenses",
+		"options": [],
+		"specificationOptions": [],
+		"height": 5,
+		"length": 10,
+		"minStockQuantity": 8,
+		"price": 35.0,
+		"promoPrice": 24.0,
+		"sku": "SINGLE_VISION_LENSES",
+		"warehouse1": 50
+	},
+	{
+		"categories": [
+			"Sunglasses"
+		],
+		"description": "",
+		"externalReferenceCode": "FAMILY_PRESCRIPTION_SUNGLASSES",
+		"images": ["sunglasses.jpg"],
+		"name": "Family Prescription Sunglasses",
+		"options": [
+		],
+		"specificationOptions": [],
+		"height": 1,
+		"length": 6,
+		"minStockQuantity": 3,
+		"price": 25.0,
+		"promoPrice": 15.0,
+		"sku": "FAMILY_PRESCRIPTION_SUNGLASSES",
+		"warehouse1": 40
+	},
+	{
+		"categories": [
+			"Eyeglasses"
+		],
+		"description": "",
+		"externalReferenceCode": "KIDS_PRESCRIPTION_EYEGLASSES",
+		"images": ["eyeglasses.jpg"],
+		"name": "Kids Prescription Eyeglasses",
+		"options": [
+		],
+		"specificationOptions": [],
+		"height": 10,
+		"length": 12,
+		"minStockQuantity": 15,
+		"price": 40.0,
+		"promoPrice": 30.0,
+		"sku": "KIDS_PRESCRIPTION_EYEGLASSES",
+		"warehouse1": 10
+	}
+]

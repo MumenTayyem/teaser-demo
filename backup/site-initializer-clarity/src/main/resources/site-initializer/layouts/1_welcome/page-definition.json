@@ -1,0 +1,166 @@
+{
+	"pageElement": {
+		"id": "31996541-4ec6-f904-32ba-499c71d2b9ec",
+		"pageElements": [
+			{
+				"definition": {
+					"gutters": true,
+					"indexed": true,
+					"modulesPerRow": 2,
+					"numberOfColumns": 2,
+					"reverseOrder": false,
+					"rowViewports": [
+						{
+							"id": "landscapeMobile",
+							"rowViewportDefinition": {
+								"modulesPerRow": 1
+							}
+						},
+						{
+							"id": "portraitMobile",
+							"rowViewportDefinition": {}
+						},
+						{
+							"id": "tablet",
+							"rowViewportDefinition": {}
+						}
+					],
+					"verticalAlignment": "top"
+				},
+				"id": "c10018c1-9005-56f3-c853-dd26fa836ab1",
+				"pageElements": [
+					{
+						"definition": {
+							"columnViewports": [
+								{
+									"columnViewportDefinition": {
+										"size": 12
+									},
+									"id": "landscapeMobile"
+								},
+								{
+									"columnViewportDefinition": {},
+									"id": "portraitMobile"
+								},
+								{
+									"columnViewportDefinition": {},
+									"id": "tablet"
+								}
+							],
+							"size": 6
+						},
+						"id": "449f8ab1-c75c-c7b4-989c-a0d3901b30c9",
+						"pageElements": [
+							{
+								"definition": {
+									"widgetInstance": {
+										"widgetConfig": {
+											"federatedSearchKey": "",
+											"displayStyleGroupKey": "clarity",
+											"suggestionsContributorConfigurations": "{\"contributorName\":\"basic\",\"displayGroupName\":\"suggestions\",\"size\":5}",
+											"showStagedResults": "false",
+											"searchScope": "everything",
+											"suggestionsEnabled": "true",
+											"destination": "",
+											"invisible": "false",
+											"displayStyleGroupId": "36399",
+											"suggestionsDisplayThreshold": "2",
+											"displayStyle": "default",
+											"scopeParameterName": "scope",
+											"keywordsParameterName": "q",
+											"useAdvancedSearchSyntax": "false"
+										},
+										"widgetName": "com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet"
+									}
+								},
+								"id": "61f666de-b5d5-9b18-223d-76b56f5a5c92",
+								"type": "Widget"
+							},
+							{
+								"definition": {
+									"fragmentStyle": {
+										"hidden": true
+									},
+									"widgetInstance": {
+										"widgetConfig": {
+											"federatedSearchKey": "",
+											"allowEmptySearches": "true",
+											"basicFacetSelection": "false",
+											"retainFacetSelections": "false"
+										},
+										"widgetName": "com_liferay_portal_search_web_search_options_portlet_SearchOptionsPortlet"
+									}
+								},
+								"id": "d29e8e54-b8cd-965f-7afc-8fe35a9c0fb5",
+								"type": "Widget"
+							},
+							{
+								"definition": {
+									"widgetInstance": {
+										"widgetConfig": {},
+										"widgetName": "com_liferay_commerce_product_content_search_web_internal_portlet_CPSpecificationOptionFacetsPortlet"
+									}
+								},
+								"id": "3522cc66-c59a-008f-351a-87f77444202c",
+								"type": "Widget"
+							}
+						],
+						"type": "Column"
+					},
+					{
+						"definition": {
+							"columnViewports": [
+								{
+									"columnViewportDefinition": {
+										"size": 12
+									},
+									"id": "landscapeMobile"
+								},
+								{
+									"columnViewportDefinition": {},
+									"id": "portraitMobile"
+								},
+								{
+									"columnViewportDefinition": {},
+									"id": "tablet"
+								}
+							],
+							"size": 6
+						},
+						"id": "f373a8d0-f979-1e72-5055-bb87c2b00c5a",
+						"pageElements": [
+							{
+								"definition": {
+									"widgetInstance": {
+										"widgetConfig": {},
+										"widgetName": "com_liferay_commerce_product_content_search_web_internal_portlet_CPSortPortlet"
+									}
+								},
+								"id": "ad03e359-d62d-3d35-de10-54cff6018a4b",
+								"type": "Widget"
+							},
+							{
+								"definition": {
+									"widgetInstance": {
+										"widgetConfig": {},
+										"widgetName": "com_liferay_commerce_product_content_search_web_internal_portlet_CPSearchResultsPortlet"
+									}
+								},
+								"id": "8964d7fb-4720-258a-a503-38645930c782",
+								"type": "Widget"
+							}
+						],
+						"type": "Column"
+					}
+				],
+				"type": "Row"
+			}
+		],
+		"type": "Root"
+	},
+	"settings": {
+		"colorSchemeName": "01",
+		"themeName": "Classic"
+	},
+	"version": 1.1
+}

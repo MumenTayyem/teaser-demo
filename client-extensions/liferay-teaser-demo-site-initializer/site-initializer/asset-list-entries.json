@@ -1,0 +1,141 @@
+[
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
+    "title": "FAQ - Retail Partners",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+        {
+          "key": "queryAndOperator0",
+          "value": "true"
+        },
+        {
+          "key": "queryContains0",
+          "value": "true"
+        },
+        {
+          "key": "queryName0",
+          "value": "assetCategories"
+        },
+        {
+          "key": "queryValues0",
+          "value": "[#TAXONOMY_CATEGORY_ID:/site-initializer/taxonomy-vocabularies/group/faq.vocabulary/retail-partners.category.json#]"
+        }
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
+    "title": "FAQ - Products & Services",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+        {
+          "key": "queryAndOperator0",
+          "value": "true"
+        },
+        {
+          "key": "queryContains0",
+          "value": "true"
+        },
+        {
+          "key": "queryName0",
+          "value": "assetCategories"
+        },
+        {
+          "key": "queryValues0",
+          "value": "[#TAXONOMY_CATEGORY_ID:/site-initializer/taxonomy-vocabularies/group/faq.vocabulary/products-and-services.category.json#]"
+        }
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
+    "title": "FAQ - Pricing & Ordering",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+        {
+          "key": "queryAndOperator0",
+          "value": "true"
+        },
+        {
+          "key": "queryContains0",
+          "value": "true"
+        },
+        {
+          "key": "queryName0",
+          "value": "assetCategories"
+        },
+        {
+          "key": "queryValues0",
+          "value": "[#TAXONOMY_CATEGORY_ID:/site-initializer/taxonomy-vocabularies/group/faq.vocabulary/pricing-and-ordering.category.json#]"
+        }
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
+    "title": "FAQ - Returns & Exchanges",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+        {
+          "key": "queryAndOperator0",
+          "value": "true"
+        },
+        {
+          "key": "queryContains0",
+          "value": "true"
+        },
+        {
+          "key": "queryName0",
+          "value": "assetCategories"
+        },
+        {
+          "key": "queryValues0",
+          "value": "[#TAXONOMY_CATEGORY_ID:/site-initializer/taxonomy-vocabularies/group/faq.vocabulary/returns-and-exchanges.category.json#]"
+        }
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Announcement$]",
+    "title": "Announcements",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Article$]",
+    "title": "Helpful Articles Dynamic",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+
+      ]
+    }
+  },
+  {
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Leadership$]",
+    "title": "Leadership",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.journal.model.JournalArticle",
+      "filterBy": [
+
+      ]
+    }
+  },
+  {
+    "title": "Blogs",
+    "unicodeProperties": {
+      "classNameIds": "com.liferay.blogs.model.BlogsEntry",
+      "filterBy": [
+
+      ]
+    }
+  }
+]

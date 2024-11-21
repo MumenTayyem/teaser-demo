@@ -1,0 +1,68 @@
+[
+	{
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "CLASS_AVIATOR_SUNGLASSES",
+		"description": "The material of the frame.",
+		"facetable": true,
+		"key": "frame-material",
+		"title": "Frame Material",
+		"productSpecificationValue": {
+			"en_US": "Metal"
+		}
+	},
+	{
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "CLASS_AVIATOR_SUNGLASSES",
+		"description": "The color of the frame.",
+		"facetable": true,
+		"key": "frame-color",
+		"title": "Frame Color",
+		"productSpecificationValue": {
+			"en_US": "Gold"
+		}
+	},
+	{
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "CLASS_AVIATOR_SUNGLASSES",
+		"description": "The size of the frame (in default units).",
+		"facetable": false,
+		"key": "frame-size",
+		"title": "Frame Size",
+		"productSpecificationValue": {
+			"en_US": "54-20"
+		}
+	},
+    {
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "FAMILY_PRESCRIPTION_SUNGLASSES",
+		"description": "The material of the frame.",
+		"facetable": true,
+		"key": "frame-material",
+		"title": "Frame Material",
+		"productSpecificationValue": {
+			"en_US": "Metal"
+		}
+	},
+    {
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "KIDS_PRESCRIPTION_EYEGLASSES",
+		"description": "The color of the frame.",
+		"facetable": true,
+		"key": "frame-color",
+		"title": "Frame Color",
+		"productSpecificationValue": {
+			"en_US": "Pink"
+		}
+	},
+    {
+		"categoryKey": "frame-description",
+		"cpDefinitionExternalReferenceCode": "KIDS_PRESCRIPTION_EYEGLASSES",
+		"description": "The material of the frame.",
+		"facetable": true,
+		"key": "frame-material",
+		"title": "Frame Material",
+		"productSpecificationValue": {
+			"en_US": "Plastic"
+		}
+	}
+]

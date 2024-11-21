@@ -1,0 +1,13 @@
+liferay-teaser-demo-site-initializer:
+    name: Liferay Teaser Demo Site Initializer
+    oAuthApplicationHeadlessServer: liferay-teaser-demo-site-initializer-oauth-application-headless-server
+    siteExternalReferenceCode: L_GUEST3
+    siteName: Liferay Teaser Demo
+    type: siteInitializer
+liferay-teaser-demo-site-initializer-oauth-application-headless-server:
+    .serviceAddress: localhost:8080
+    .serviceScheme: http
+    name: Liferay Teaser Demo Site Initializer OAuth Application Headless Server
+    scopes:
+        - Liferay.Headless.Site.everything
+    type: oAuthApplicationHeadlessServer

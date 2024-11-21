@@ -1,0 +1,102 @@
+{
+	"objectActions": [
+		{
+			"conditionExpression": "applicationState == \"approved\" AND status == 0",
+			"objectActionExecutorKey": "notification",
+			"errorMessage": {},
+			"active": true,
+			"description": "On after update, send notifications to applicants when state is approved.",
+			"label": {"en_US": "Application Approved"},
+			"externalReferenceCode": "9623c68b-fc15-a498-d83c-4376c6caba60",
+			"system": false,
+			"objectActionTriggerKey": "onAfterUpdate",
+			"name": "applicationApproved",
+			"parameters": {
+				"usePreferredLanguageForGuests": false,
+				"notificationTemplateExternalReferenceCode": "D4B8_APPLICATION_APPROVED_APPLICANT_EMAIL",
+				"type": "email",
+				"notificationTemplateId": 53281
+			},
+			"status": {
+				"label_i18n": "Never Ran",
+				"code": 0,
+				"label": "never-ran"
+			}
+		},
+		{
+			"conditionExpression": "applicationState == \"denied\" AND status == 0",
+			"objectActionExecutorKey": "notification",
+			"errorMessage": {},
+			"active": true,
+			"description": "On after update, send notifications to applicants when state is denied.",
+			"label": {"en_US": "Application Denied"},
+			"externalReferenceCode": "4b79c4d5-2839-d2b8-955a-0bd2a78675b2",
+			"system": false,
+			"objectActionTriggerKey": "onAfterUpdate",
+			"name": "applicationDenied",
+			"parameters": {
+				"usePreferredLanguageForGuests": false,
+				"notificationTemplateExternalReferenceCode": "D4B8_APPLICATION_DENIED_APPLICANT_EMAIL",
+				"type": "email",
+				"notificationTemplateId": 53287
+			},
+			"status": {
+				"label_i18n": "Never Ran",
+				"code": 0,
+				"label": "never-ran"
+			}
+		},
+		{
+			"conditionExpression": "",
+			"objectActionExecutorKey": "notification",
+			"errorMessage": {},
+			"active": true,
+			"description": "On after add, send notifications to applicants.",
+			"label": {"en_US": "Application Received"},
+			"externalReferenceCode": "d9593f10-5e40-e629-9c6f-c2260fbd741b",
+			"system": false,
+			"objectActionTriggerKey": "onAfterAdd",
+			"name": "applicationReceived",
+			"parameters": {
+				"usePreferredLanguageForGuests": false,
+				"notificationTemplateExternalReferenceCode": "D4B8_APPLICATION_RECEIVED_APPLICANT_EMAIL",
+				"type": "email",
+				"notificationTemplateId": 53293
+			},
+			"status": {"label_i18n": "Success", "code": 1, "label": "success"}
+		},
+		{
+			"conditionExpression": "",
+			"objectActionExecutorKey": "function#liferay-clarity-etc-spring-boot-object-action-account",
+			"errorMessage": {"en_US": "Failed to create the business account."},
+			"active": true,
+			"description": "Standalone, create a business account for an approved application.",
+			"label": {"en_US": "Set Up Account"},
+			"externalReferenceCode": "0715e09a-0031-31cd-2f78-96600c65c44d",
+			"system": false,
+			"objectActionTriggerKey": "standalone",
+			"name": "setUpAccount",
+			"parameters": {},
+			"status": {"label_i18n": "Success", "code": 1, "label": "success"}
+		},
+		{
+			"conditionExpression": "",
+			"objectActionExecutorKey": "notification",
+			"errorMessage": {},
+			"active": true,
+			"description": "On After Add, send notifications to administrative users.",
+			"label": {"en_US": "Application Submitted"},
+			"externalReferenceCode": "b8581f20-2301-51a3-3675-646718ee94c2",
+			"system": false,
+			"objectActionTriggerKey": "onAfterAdd",
+			"name": "applicationSubmitted",
+			"parameters": {
+				"notificationTemplateExternalReferenceCode": "a753e0be-4fee-f9c1-f2a8-4ad02f6f9217",
+				"type": "userNotification",
+				"notificationTemplateId": 54964
+			},
+			"status": {"label_i18n": "Success", "code": 1, "label": "success"}
+		}
+	],
+	"objectDefinitionId": "[$OBJECT_DEFINITION_ID:D4B8DistributorApplication$]"
+}

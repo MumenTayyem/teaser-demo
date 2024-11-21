@@ -1,0 +1,121 @@
+
+    <?xml version="1.0"?>
+
+<root>
+	<structure>
+		<name>Announcements</name>
+		<description></description>
+		<definition>
+			<![CDATA[
+			{
+        "definitionSchemaVersion": "2.0",
+        "availableLanguageIds": ["en_US"],
+        "successPage": { "body": {}, "title": {}, "enabled": false },
+        "defaultLanguageId": "en_US",
+        "fields": [
+          {
+            "labelAtStructureLevel": true,
+            "predefinedValue": { "en_US": "" },
+            "tooltip": { "en_US": "" },
+            "requireConfirmation": false,
+            "type": "text",
+            "required": true,
+            "showLabel": true,
+            "displayStyle": "singleline",
+            "requiredErrorMessage": { "en_US": "" },
+            "objectFieldName": "",
+            "repeatable": false,
+            "nativeField": false,
+            "confirmationLabel": { "en_US": "" },
+            "fieldReference": "message",
+            "tip": { "en_US": "" },
+            "placeholder": { "en_US": "" },
+            "htmlAutocompleteAttribute": "",
+            "direction": "[\"vertical\"]",
+            "confirmationErrorMessage": { "en_US": "" },
+            "hideField": false,
+            "dataType": "string",
+            "readOnly": false,
+            "label": { "en_US": "Message" },
+            "fieldNamespace": "",
+            "visibilityExpression": "",
+            "indexType": "keyword",
+            "name": "message",
+            "localizable": true
+          },
+          {
+            "labelAtStructureLevel": true,
+            "ddmStructureLayoutId": "",
+            "ddmStructureKey": "",
+            "predefinedValue": {},
+            "ddmStructureId": "",
+            "upgradedStructure": false,
+            "readOnly": false,
+            "label": { "en_US": "Fields Group" },
+            "type": "fieldset",
+            "rows": "[{\"columns\":[{\"size\":12,\"fields\":[\"Text92513204\"]}]},{\"columns\":[{\"size\":12,\"fields\":[\"LinkToLayout01794324\"]}]}]",
+            "collapsible": false,
+            "required": false,
+            "showLabel": true,
+            "nestedFields": [
+              {
+                "labelAtStructureLevel": true,
+                "predefinedValue": { "en_US": "" },
+                "tooltip": { "en_US": "" },
+                "requireConfirmation": false,
+                "type": "text",
+                "required": true,
+                "showLabel": true,
+                "displayStyle": "singleline",
+                "requiredErrorMessage": { "en_US": "" },
+                "objectFieldName": "",
+                "repeatable": false,
+                "nativeField": false,
+                "confirmationLabel": { "en_US": "" },
+                "fieldReference": "linkText",
+                "tip": { "en_US": "" },
+                "placeholder": { "en_US": "" },
+                "htmlAutocompleteAttribute": "",
+                "direction": "[\"vertical\"]",
+                "confirmationErrorMessage": { "en_US": "" },
+                "hideField": false,
+                "dataType": "string",
+                "readOnly": false,
+                "label": { "en_US": "Link Text" },
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "indexType": "keyword",
+                "name": "linkText",
+                "localizable": true
+              },
+              {
+                "dataType": "link-to-page",
+                "predefinedValue": { "en_US": "" },
+                "readOnly": false,
+                "label": { "en_US": "Link to Page" },
+                "type": "link_to_layout",
+                "required": false,
+                "showLabel": true,
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "indexType": "keyword",
+                "repeatable": false,
+                "name": "linkPage",
+                "localizable": true,
+                "fieldReference": "linkPage",
+                "tip": { "en_US": "" }
+              }
+            ],
+            "normalizedStructure": false,
+            "repeatable": false,
+            "name": "Fieldset84243538",
+            "localizable": false,
+            "fieldReference": "Fieldset84243538",
+            "tip": {}
+          }
+        ]
+      }
+			]]>
+		</definition>
+	</structure>
+</root>

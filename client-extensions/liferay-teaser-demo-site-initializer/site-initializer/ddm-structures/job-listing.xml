@@ -1,0 +1,72 @@
+
+    <?xml version="1.0"?>
+
+<root>
+	<structure>
+		<name>Job Listing</name>
+		<description></description>
+		<definition>
+			<![CDATA[
+			{
+          "definitionSchemaVersion": "2.0",
+          "availableLanguageIds": ["en_US"],
+          "successPage": { "body": {}, "title": {}, "enabled": false },
+          "defaultLanguageId": "en_US",
+          "fields": [
+            {
+              "dataType": "string",
+              "predefinedValue": {},
+              "readOnly": false,
+              "label": { "en_US": "Role Overview" },
+              "type": "rich_text",
+              "showLabel": true,
+              "required": true,
+              "fieldNamespace": "",
+              "visibilityExpression": "",
+              "indexType": "text",
+              "repeatable": false,
+              "name": "roleOverview",
+              "localizable": true,
+              "fieldReference": "roleOverview",
+              "tip": { "en_US": "" }
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": {},
+              "readOnly": false,
+              "label": { "en_US": "Key Responsibilities" },
+              "type": "rich_text",
+              "showLabel": true,
+              "required": true,
+              "fieldNamespace": "",
+              "visibilityExpression": "",
+              "indexType": "text",
+              "repeatable": false,
+              "name": "keyResposabilities",
+              "localizable": true,
+              "fieldReference": "keyResposabilities",
+              "tip": { "en_US": "" }
+            },
+            {
+              "dataType": "string",
+              "predefinedValue": {},
+              "readOnly": false,
+              "label": { "en_US": "Qualifications and Skills" },
+              "type": "rich_text",
+              "showLabel": true,
+              "required": true,
+              "fieldNamespace": "",
+              "visibilityExpression": "",
+              "indexType": "text",
+              "repeatable": false,
+              "name": "qualificationAndSkills",
+              "localizable": true,
+              "fieldReference": "qualificationAndSkills",
+              "tip": { "en_US": "" }
+            }
+          ]
+        }
+			]]>
+		</definition>
+	</structure>
+</root>

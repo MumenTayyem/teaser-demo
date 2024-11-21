@@ -1,0 +1,38 @@
+
+    <?xml version="1.0"?>
+
+<root>
+	<structure>
+		<name>FAQ</name>
+		<description></description>
+		<definition>
+			<![CDATA[
+			{
+        "definitionSchemaVersion": "2.0",
+        "availableLanguageIds": ["en_US"],
+        "successPage": { "body": {}, "title": {}, "enabled": false },
+        "defaultLanguageId": "en_US",
+        "fields": [
+          {
+            "dataType": "string",
+            "predefinedValue": {},
+            "readOnly": false,
+            "label": { "en_US": "Answer" },
+            "type": "rich_text",
+            "required": true,
+            "showLabel": true,
+            "fieldNamespace": "",
+            "visibilityExpression": "",
+            "indexType": "text",
+            "repeatable": false,
+            "name": "answer",
+            "localizable": true,
+            "fieldReference": "Answer",
+            "tip": { "en_US": "" }
+          }
+        ]
+      }
+			]]>
+		</definition>
+	</structure>
+</root>

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Footer Products Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "name": "Eyeglasses",
+        "type": "layout",
+        "layout": "/web/clarity/g/eyeglasses"
+      },
+      {
+        "name": "Sunglasses",
+        "type": "layout",
+        "layout": "/web/clarity/g/sunglasses"
+      },
+      {
+        "name": "Contacts",
+        "type": "layout",
+        "layout": "/web/clarity/g/contacts"
+      },
+      {
+        "name": "Lenses",
+        "type": "layout",
+        "layout": "/web/clarity/g/lenses"
+      }
+    ]
+  },
+  {
+    "name": "Footer About Us Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/about-us",
+        "name": "",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/about-us",
+        "name": "",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/careers",
+        "name": "",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Footer Get In Touch Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/contact-us",
+        "name": "Contact Us",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Footer Legal Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "availableLanguages": [],
+        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/0",
+        "customFields": [],
+        "type": "layout"
+      },
+      {
+        "availableLanguages": [],
+        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62660",
+        "customFields": [],
+        "name": "Privacy Policy",
+        "type": "layout",
+        "useCustomName": false,
+        "menuItems": []
+      },
+      {
+        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62651",
+        "name": "Terms of Use",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Footer Resources Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/blog",
+        "name": "Blog",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/faq",
+        "name": "FAQ",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Header Page Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/products",
+        "name": "Products",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/about-us",
+        "name": "About Us",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/blog",
+        "name": "Blog",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/faq",
+        "name": "FAQ",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/careers",
+        "name": "Careers",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/contact-us",
+        "name": "Contact Us",
+        "type": "layout"
+      }
+    ]
+  }
+]
