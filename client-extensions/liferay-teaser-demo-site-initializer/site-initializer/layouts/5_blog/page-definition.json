@@ -190,7 +190,7 @@
                                             "fieldKey": "BlogsEntry_displayPageURL",
                                             "itemReference": {
                                               "className": "com.liferay.blogs.model.BlogsEntry",
-                                              "classPK": 37839
+                                              "classPK": "[$BLOG_POSTING_ID:INNOVATIONS_IN_EYEWEAR_TECHNOLOGY_BEYOND_CLEAR_VISION_BLOG$]"
                                             }
                                           }
                                         }
@@ -326,7 +326,7 @@
                           "categoryTreeNodeId": "[$TAXONOMY_CATEGORY_ID:Blog Posts$]"
                         },
                         "targetCollections": [
-                          "dc6f1e1e-b3f1-4dc1-e7f2-c60788f59583"
+                          "BLOGS_COLLECTION"
                         ]
                       },
                       "fragmentFields": [],

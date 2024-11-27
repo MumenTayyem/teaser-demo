@@ -1,7 +1,7 @@
 [
 	{
 		"externalReferenceCode": "PREMIUM_BOX_OPTION",
-		"facetable": false,
+		"facetable": true,
 		"fieldType": "select",
 		"key": "premium-box-option",
 		"name": "premium-box-option",

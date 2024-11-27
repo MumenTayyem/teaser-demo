@@ -1409,7 +1409,7 @@
                                   "value": {
                                     "href": {
                                       "mapping": {
-                                        "fieldKey": "LayoutPageTemplateEntry_[$TEMPLATE_ENTRY_ID:Article$]",
+                                        "fieldKey": "displayPageURL",
                                         "itemReference": {
                                           "contextSource": "CollectionItem"
                                         }

@@ -591,7 +591,12 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   },
   {
     "categories": ["Lenses"],
@@ -609,7 +614,12 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   },
   {
     "categories": ["Contacts"],
@@ -627,7 +637,12 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   },
   {
     "categories": ["Contacts"],
@@ -645,7 +660,12 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   },
   {
     "categories": ["Lenses"],
@@ -663,7 +683,12 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   },
   {
     "categories": ["Contacts"],
@@ -681,6 +706,11 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+			{
+				"key": "premium-box-option"
+			}
+		]
   }
 ]

@@ -823,7 +823,7 @@
                                       "value": {
                                         "href": {
                                           "mapping": {
-                                            "fieldKey": "LayoutPageTemplateEntry_40835",
+                                            "fieldKey": "displayPageURL",
                                             "itemReference": {
                                               "contextSource": "CollectionItem"
                                             }

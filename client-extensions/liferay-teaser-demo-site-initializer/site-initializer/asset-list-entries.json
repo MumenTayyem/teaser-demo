@@ -131,6 +131,7 @@
   },
   {
     "title": "Blogs",
+    "externalReferenceCode":"BLOGS_COLLECTION",
     "unicodeProperties": {
       "classNameIds": "com.liferay.blogs.model.BlogsEntry",
       "filterBy": [
