@@ -322,12 +322,6 @@
       "imageId": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Blogs/img1714572678416-1.jpg#]"
     },
     "keywords": ["industrial"],
-    "relatedContents": [
-      {
-        "contentType": "BlogPosting",
-        "id": "[#BLOG_POSTING_ID:CHOOSING_THE_RIGHT_EYEWEAR_FOR_OUTDOOR_ACTIVITIES_BLOG#]"
-      }
-    ],
     "taxonomyCategoryIds": [
       "[#TAXONOMY_CATEGORY_ID:/site-initializer/taxonomy-vocabularies/group/blog-posts.vocabulary/health.category.json#]"
     ]

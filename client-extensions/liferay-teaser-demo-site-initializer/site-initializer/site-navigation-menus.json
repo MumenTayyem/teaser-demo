@@ -4,24 +4,32 @@
     "type": "node",
     "menuItems": [
       {
-        "name": "Eyeglasses",
-        "type": "layout",
-        "layout": "/web/clarity/g/eyeglasses"
+        "name_i18n": {
+          "en_US": "Eyeglasses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/eyeglasses"
       },
       {
-        "name": "Sunglasses",
-        "type": "layout",
-        "layout": "/web/clarity/g/sunglasses"
+        "name_i18n": {
+          "en_US": "Sunglasses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/sunglasses"
       },
       {
-        "name": "Contacts",
-        "type": "layout",
-        "layout": "/web/clarity/g/contacts"
+        "name_i18n": {
+          "en_US": "Contacts"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/contacts"
       },
       {
-        "name": "Lenses",
-        "type": "layout",
-        "layout": "/web/clarity/g/lenses"
+        "name_i18n": {
+          "en_US": "Lenses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/lenses"
       }
     ]
   },
@@ -31,17 +39,12 @@
     "menuItems": [
       {
         "friendlyURL": "/about-us",
-        "name": "",
-        "type": "layout"
-      },
-      {
-        "friendlyURL": "/about-us",
-        "name": "",
+        "name": "About us",
         "type": "layout"
       },
       {
         "friendlyURL": "/careers",
-        "name": "",
+        "name": "Careers",
         "type": "layout"
       }
     ]
@@ -62,24 +65,18 @@
     "type": "node",
     "menuItems": [
       {
-        "availableLanguages": [],
-        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/0",
-        "customFields": [],
-        "type": "layout"
+        "name_i18n": {
+          "en_US": "Privacy Policy"
+        },
+        "url": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62660",
+        "type": "url"
       },
       {
-        "availableLanguages": [],
-        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62660",
-        "customFields": [],
-        "name": "Privacy Policy",
-        "type": "layout",
-        "useCustomName": false,
-        "menuItems": []
-      },
-      {
-        "contentURL": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62651",
-        "name": "Terms of Use",
-        "type": "layout"
+        "name_i18n": {
+          "en_US": "Terms of Use"
+        },
+        "url": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62651",
+        "type": "url"
       }
     ]
   },

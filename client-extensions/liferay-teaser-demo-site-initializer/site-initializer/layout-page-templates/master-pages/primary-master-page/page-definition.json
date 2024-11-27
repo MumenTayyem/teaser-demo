@@ -7,165 +7,6 @@
           {
             "definition": {
               "fragmentStyle": {
-                "backgroundColor": "colorBrandPrimary",
-                "paddingBottom": "2",
-                "paddingTop": "2"
-              },
-              "indexed": true,
-              "layout": {
-                "align": "Center",
-                "contentDisplay": "FlexRow",
-                "justify": "Center"
-              },
-              "name": "Header Announcement Bar"
-            },
-            "pageElements": [
-              {
-                "definition": {
-                  "collectionConfig": {
-                    "collectionReference": {
-                      "className": "com.liferay.asset.list.model.AssetListEntry",
-                      "classPK": "[$ASSET_LIST_ENTRY_ID:ANNOUNCEMENTS$]"
-                    },
-                    "collectionType": "Collection"
-                  },
-                  "collectionViewports": [
-                    {
-                      "collectionViewportDefinition": { "numberOfColumns": 1 },
-                      "id": "landscapeMobile"
-                    },
-                    {
-                      "collectionViewportDefinition": { "numberOfColumns": 1 },
-                      "id": "portraitMobile"
-                    },
-                    {
-                      "collectionViewportDefinition": { "numberOfColumns": 1 },
-                      "id": "tablet"
-                    }
-                  ],
-                  "displayAllItems": false,
-                  "displayAllPages": true,
-                  "emptyCollectionConfig": { "displayMessage": false },
-                  "listItemStyle": "",
-                  "listStyle": "",
-                  "numberOfColumns": 1,
-                  "numberOfItems": 1,
-                  "numberOfItemsPerPage": 20,
-                  "numberOfPages": 5,
-                  "paginationType": "None",
-                  "showAllItems": false,
-                  "templateKey": ""
-                },
-                "pageElements": [
-                  {
-                    "definition": { "collectionItemConfig": {} },
-                    "pageElements": [
-                      {
-                        "definition": {
-                          "indexed": true,
-                          "layout": {
-                            "align": "Center",
-                            "contentDisplay": "FlexRow",
-                            "justify": "Center"
-                          },
-                          "name": "Announcement"
-                        },
-                        "pageElements": [
-                          {
-                            "definition": {
-                              "fragment": {
-                                "key": "BASIC_COMPONENT-paragraph"
-                              },
-                              "fragmentConfig": {},
-                              "fragmentFields": [
-                                {
-                                  "id": "element-text",
-                                  "value": {
-                                    "fragmentLink": {},
-                                    "text": {
-                                      "mapping": {
-                                        "fieldKey": "DDMStructure_message",
-                                        "itemReference": {
-                                          "contextSource": "CollectionItem"
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              ],
-                              "fragmentStyle": {
-                                "marginRight": "3",
-                                "textColor": "colorNeutral0"
-                              },
-                              "indexed": true
-                            },
-                            "type": "Fragment"
-                          },
-                          {
-                            "definition": {
-                              "fragment": {
-                                "key": "dialect-dialect-button",
-                                "siteKey": "[$GROUP_KEY$]"
-                              },
-                              "fragmentConfig": {
-                                "uppercase": false,
-                                "iconName": "share",
-                                "style": "primary",
-                                "type": "borderless",
-                                "inverted": true,
-                                "buttonSize": "btn-sm"
-                              },
-                              "fragmentFields": [
-                                {
-                                  "id": "link",
-                                  "value": {
-                                    "fragmentLink": {
-                                      "value": {
-                                        "href": {
-                                          "mapping": {
-                                            "fieldKey": "DDMStructure_linkPage",
-                                            "itemReference": {
-                                              "contextSource": "CollectionItem"
-                                            }
-                                          }
-                                        }
-                                      }
-                                    },
-                                    "text": {
-                                      "mapping": {
-                                        "fieldKey": "DDMStructure_linkText",
-                                        "itemReference": {
-                                          "contextSource": "CollectionItem"
-                                        }
-                                      }
-                                    }
-                                  }
-                                },
-                                {
-                                  "id": "text",
-                                  "value": { "fragmentLink": {} }
-                                }
-                              ],
-                              "fragmentStyle": { "textColor": "colorNeutral0" },
-                              "indexed": true
-                            },
-                            "type": "Fragment"
-                          }
-                        ],
-                        "type": "Section"
-                      }
-                    ],
-                    "type": "CollectionItem"
-                  }
-                ],
-                "type": "Collection"
-              }
-            ],
-            "type": "Section"
-          },
-          {
-            "definition": {
-              "fragmentStyle": {
                 "paddingBottom": "3",
                 "paddingLeft": "6",
                 "paddingRight": "6",
@@ -312,20 +153,22 @@
                         "pageElements": [
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "horizontal",
-                                "selectedItemColor": "",
-                                "sublevels": "-1",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"49001\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Header Page Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayStyle": "ddmTemplate_NAVBAR-BLANK-FTL",
+                                  "displayDepth": "0",
+                                  "siteNavigationMenuName": "Header Page Menu",
+                                  "siteNavigationMenuType": "-1",
+                                  "rootMenuItemType": "absolute",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0"
+                                },
+                                "widgetInstanceId": "header",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -630,20 +473,23 @@
                           },
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "stacked",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32622\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer Products Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "0",
+                                  "displayStyle": "ddmTemplate_NAV-PILLS-STACKED-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer Products Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "footer1",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -708,20 +554,23 @@
                           },
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "stacked",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32627\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer About Us Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "0",
+                                  "displayStyle": "ddmTemplate_NAV-PILLS-STACKED-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer About Us Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "footer2",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -786,20 +635,23 @@
                           },
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "stacked",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32634\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer Resources Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "0",
+                                  "displayStyle": "ddmTemplate_NAV-PILLS-STACKED-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer Resources Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "footer3",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -863,20 +715,23 @@
                           },
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "stacked",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32628\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer Get In Touch Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "0",
+                                  "displayStyle": "ddmTemplate_NAV-PILLS-STACKED-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer Get In Touch Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "footer4",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -1001,20 +856,23 @@
                         "pageElements": [
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "horizontal",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32630\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer Legal Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "0",
+                                  "displayStyle": "ddmTemplate_NAVBAR-BLANK-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer Legal Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "footer5",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"

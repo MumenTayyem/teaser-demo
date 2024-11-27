@@ -1,7 +1,7 @@
 [
   {
     "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "FAQ - Retail Partners",
+    "title": "Retail Partners FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -26,7 +26,7 @@
   },
   {
     "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "FAQ - Products & Services",
+    "title": "Products and Services FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -51,7 +51,7 @@
   },
   {
     "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "FAQ - Pricing & Ordering",
+    "title": "Pricing and Ordering FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -76,7 +76,7 @@
   },
   {
     "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "FAQ - Returns & Exchanges",
+    "title": "Returns and Exchanges FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -100,7 +100,7 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Announcement$]",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:ANNOUNCEMENT$]",
     "title": "Announcements",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Article$]",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:ARTICLE$]",
     "title": "Helpful Articles Dynamic",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:Leadership$]",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:LEADERSHIP PROFILE$]",
     "title": "Leadership",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",

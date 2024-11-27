@@ -153,20 +153,23 @@
                         "pageElements": [
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "horizontal",
-                                "selectedItemColor": "",
-                                "sublevels": "-1",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"49001\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Header Page Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "2",
+                                  "displayStyle": "ddmTemplate_NAVBAR-BLANK-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Header Page Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "navMain",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
@@ -434,20 +437,23 @@
                         "pageElements": [
                           {
                             "definition": {
-                              "fragment": {
-                                "key": "com.liferay.fragment.renderer.menu.display.internal.MenuDisplayFragmentRenderer"
-                              },
-                              "fragmentConfig": {
-                                "displayStyle": "horizontal",
-                                "selectedItemColor": "",
-                                "sublevels": "0",
-                                "hoveredItemColor": "",
-                                "source": "{\"siteNavigationMenuId\":\"32630\",\"parentSiteNavigationMenuItemId\":\"0\",\"privateLayout\":\"false\",\"title\":\"Footer Legal Menu\",\"type\":\"class com.liferay.site.navigation.item.selector.SiteNavigationMenuItemSelectorReturnType\"}"
-                              },
-                              "fragmentFields": [],
-                              "indexed": true
+                              "cssClasses": ["clarity-horizontal-nav"],
+                              "widgetInstance": {
+                                "widgetConfig": {
+                                  "displayDepth": "2",
+                                  "displayStyle": "ddmTemplate_NAVBAR-BLANK-FTL",
+                                  "displayStyleGroupId": "[$GROUP_ID$]",
+                                  "expandedLevels": "auto",
+                                  "rootMenuItemLevel": "0",
+                                  "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuName": "Footer Legal Menu",
+                                  "siteNavigationMenuType": "-1"
+                                },
+                                "widgetInstanceId": "navMain",
+                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
+                              }
                             },
-                            "type": "Fragment"
+                            "type": "Widget"
                           }
                         ],
                         "type": "Section"
