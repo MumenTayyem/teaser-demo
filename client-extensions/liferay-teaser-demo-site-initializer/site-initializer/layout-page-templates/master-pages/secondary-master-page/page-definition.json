@@ -6,6 +6,27 @@
         "pageElements": [
           {
             "definition": {
+              "fragment": { "key": "BASIC_COMPONENT-html" },
+              "fragmentConfig": {},
+              "fragmentFields": [
+                {
+                  "id": "element-html",
+                  "value": {
+                    "html": {
+                      "value_i18n": {
+                        "en_US": "<link href=\"[$DOCUMENT_URL:/site-initializer/documents/group/CSS/main.css$]\" rel=\"stylesheet\" />\n<link href=\"[$DOCUMENT_URL:/site-initializer/documents/group/CSS/clay.css$]\" rel=\"stylesheet\" />"
+                      }
+                    }
+                  }
+                }
+              ],
+              "fragmentStyle": { "hidden": true },
+              "indexed": true
+            },
+            "type": "Fragment"
+          },
+          {
+            "definition": {
               "fragmentStyle": {
                 "paddingBottom": "3",
                 "paddingLeft": "6",
