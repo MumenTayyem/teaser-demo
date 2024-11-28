@@ -275,7 +275,8 @@
                             "definition": {
                               "fragment": {
                                 "key": "login-and-user-menu",
-                                "siteKey": "[$GROUP_KEY$]"
+                                "siteKey": "[$GROUP_KEY$]",
+                                "loginPage": "/web/[$GROUP_KEY$]/sign-in"
                               },
                               "fragmentConfig": {
                                 "iconName": "user",

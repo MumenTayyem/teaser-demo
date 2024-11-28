@@ -1,0 +1,11 @@
+[
+	{
+		"active": "true",
+		"criteria": "{\"criteria\":{\"user\":{\"conjunction\":\"and\",\"filterString\":\"(emailAddress eq 'terrence.wheatley@distributor.com')\",\"typeValue\":\"model\"}},\"filterStrings\":{\"model\":\"(emailAddress eq 'terrence.wheatley@distributor.com')\"}}",
+		"name_i18n": {
+			"en-US": "Distributor"
+		},
+		"segmentsEntryKey": "DISTRIBUTOR_SEGMENT",
+		"type": "com.liferay.portal.kernel.model.User"
+	}
+]
