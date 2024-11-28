@@ -256,8 +256,9 @@
                                 "siteKey": "[$GROUP_KEY$]"
                               },
                               "fragmentConfig": {
-                                "iconName": "user",
-                                "iconSize": "1rem"
+                               "iconName": "user",
+                                "iconSize": "1rem",
+                                "loginPage": "/web/[$GROUP_KEY$]/sign-in"
                               },
                               "fragmentFields": [],
                               "indexed": true
@@ -494,23 +495,31 @@
                           },
                           {
                             "definition": {
-                              "cssClasses": ["clarity-horizontal-nav"],
-                              "widgetInstance": {
-                                "widgetConfig": {
-                                  "displayDepth": "0",
-                                  "displayStyle": "ddmTemplate_NAV-PILLS-STACKED-FTL",
-                                  "displayStyleGroupId": "[$GROUP_ID$]",
-                                  "expandedLevels": "auto",
-                                  "rootMenuItemLevel": "0",
-                                  "rootMenuItemType": "absolute",
-                                  "siteNavigationMenuName": "Footer Products Menu",
-                                  "siteNavigationMenuType": "-1"
-                                },
-                                "widgetInstanceId": "footer1",
-                                "widgetName": "com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"
-                              }
+                              "cssClasses": ["custom-navigation"],
+                              "indexed": true,
+                              "layout": {}
                             },
-                            "type": "Widget"
+                            "pageElements": [
+                              {
+                                "definition": {
+                                  "customCSS": ".custom-navigation .[$FRAGMENT_CLASS$] .panel-title {\n\tdisplay: none;\n}\n\n.custom-navigation .[$FRAGMENT_CLASS$] .panel-body,.custom-navigation .[$FRAGMENT_CLASS$] .tree-node,.custom-navigation .[$FRAGMENT_CLASS$] .portlet-content{\n\tpadding: 0;\n}",
+                                  "widgetInstance": {
+                                    "widgetConfig": {
+                                      "displayStyle": "default",
+                                      "rootAssetCategoryId": "",
+                                      "useCategoryFromRequest": "false",
+                                      "displayStyleGroupKey": "Liferay Teaser Demo",
+                                      "useRootCategory": "false",
+                                      "assetVocabularyId": "[$TAXONOMY_VOCABULARY_ID:Products$]",
+                                      "displayStyleGroupId": "[$GROUP_ID$]"
+                                    },
+                                    "widgetName": "com_liferay_commerce_product_asset_categories_navigation_web_internal_portlet_CPAssetCategoriesNavigationPortlet"
+                                  }
+                                },
+                                "type": "Widget"
+                              }
+                            ],
+                            "type": "Section"
                           }
                         ],
                         "type": "Section"
