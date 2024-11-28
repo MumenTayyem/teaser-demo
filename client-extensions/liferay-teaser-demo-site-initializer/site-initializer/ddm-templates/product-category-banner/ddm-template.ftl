@@ -17,9 +17,9 @@
 		/>
 	</#if>
 
+
 <style>
 .product-category-banner__background {
-  background-image: url('${htmlUtil.escapeAttribute(image)}');
   height: 280px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -29,7 +29,7 @@
 
 <div class="product-category-content-container">
   <!-- Background image -->
-	<div class="container-fluid product-category-banner__background" style="background-image: url('${htmlUtil.escapeAttribute(image)}');">
+	<div class="container-fluid product-category-banner__background">
 		<div class="d-flex d-flex-row align-items-center h-100">
 			<div class="container-fluid">
 				<div class="row">
