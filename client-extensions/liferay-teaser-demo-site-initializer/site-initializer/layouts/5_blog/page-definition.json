@@ -303,48 +303,6 @@
               {
                 "definition": {
                   "indexed": true,
-                  "layout": {
-                    "align": "Center",
-                    "contentDisplay": "FlexRow",
-                    "justify": "Center"
-                  },
-                  "name": "Search and Filter"
-                },
-                "pageElements": [
-                  {
-                    "definition": {
-                      "fragment": {
-                        "key": "com.liferay.fragment.renderer.collection.filter.internal.CollectionFilterFragmentRenderer"
-                      },
-                      "fragmentConfig": {
-                        "filterKey": "category",
-                        "singleSelection": true,
-                        "source": {
-                          "categoryTreeNodeType": "Vocabulary",
-                          "title": "Blog Posts",
-                          "type": "class com.liferay.asset.categories.item.selector.AssetCategoryTreeNodeItemSelectorReturnType",
-                          "categoryTreeNodeId": "[$TAXONOMY_CATEGORY_ID:Blog Posts$]"
-                        },
-                        "targetCollections": [
-                          "BLOGS_COLLECTION"
-                        ]
-                      },
-                      "fragmentFields": [],
-                      "fragmentStyle": {
-                        "marginBottom": "4",
-                        "maxWidth": "750px",
-                        "minWidth": "600px"
-                      },
-                      "indexed": true
-                    },
-                    "type": "Fragment"
-                  }
-                ],
-                "type": "Section"
-              },
-              {
-                "definition": {
-                  "indexed": true,
                   "layout": {},
                   "name": "Blog Articles"
                 },
