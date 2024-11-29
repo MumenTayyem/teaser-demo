@@ -10,7 +10,9 @@
         "pageElements": [
           {
             "definition": {
-              "fragmentStyle": { "height": "240px" },
+              "fragmentStyle": {
+                "height": "240px"
+              },
               "indexed": true,
               "layout": {
                 "align": "Center",
@@ -22,27 +24,41 @@
             "pageElements": [
               {
                 "definition": {
-                  "fragment": { "key": "BASIC_COMPONENT-heading" },
-                  "fragmentConfig": { "headingLevel": "h1" },
+                  "fragment": {
+                    "key": "BASIC_COMPONENT-heading"
+                  },
+                  "fragmentConfig": {
+                    "headingLevel": "h1"
+                  },
                   "fragmentFields": [
                     {
                       "id": "element-text",
                       "value": {
                         "fragmentLink": {},
-                        "text": { "value_i18n": { "en_US": "Join the Team!" } }
+                        "text": {
+                          "value_i18n": {
+                            "en_US": "Join the Team!"
+                          }
+                        }
                       }
                     }
                   ],
-                  "fragmentStyle": { "paddingBottom": "4" },
+                  "fragmentStyle": {
+                    "paddingBottom": "4"
+                  },
                   "indexed": true
                 },
                 "type": "Fragment"
               },
               {
                 "definition": {
-                  "fragmentStyle": { "minWidth": "500px" },
+                  "fragmentStyle": {
+                    "minWidth": "500px"
+                  },
                   "widgetInstance": {
-                    "widgetConfig": { "displayStyleGroupId": "[$GROUP_ID$]" },
+                    "widgetConfig": {
+                      "displayStyleGroupId": "[$GROUP_ID$]"
+                    },
                     "widgetName": "com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet"
                   }
                 },
@@ -79,10 +95,18 @@
                   "rowViewports": [
                     {
                       "id": "landscapeMobile",
-                      "rowViewportDefinition": { "modulesPerRow": 1 }
+                      "rowViewportDefinition": {
+                        "modulesPerRow": 1
+                      }
                     },
-                    { "id": "portraitMobile", "rowViewportDefinition": {} },
-                    { "id": "tablet", "rowViewportDefinition": {} }
+                    {
+                      "id": "portraitMobile",
+                      "rowViewportDefinition": {}
+                    },
+                    {
+                      "id": "tablet",
+                      "rowViewportDefinition": {}
+                    }
                   ],
                   "verticalAlignment": "top"
                 },
@@ -91,14 +115,19 @@
                     "definition": {
                       "columnViewports": [
                         {
-                          "columnViewportDefinition": { "size": 12 },
+                          "columnViewportDefinition": {
+                            "size": 12
+                          },
                           "id": "landscapeMobile"
                         },
                         {
                           "columnViewportDefinition": {},
                           "id": "portraitMobile"
                         },
-                        { "columnViewportDefinition": {}, "id": "tablet" }
+                        {
+                          "columnViewportDefinition": {},
+                          "id": "tablet"
+                        }
                       ],
                       "size": 3
                     },
@@ -107,8 +136,34 @@
                         "definition": {
                           "widgetInstance": {
                             "widgetConfig": {
+                              "federatedSearchKey": "",
+                              "displayStyleGroupKey": "[$GROUP_KEY$]",
+                              "occur": "filter",
+                              "invisible": "true",
+                              "parameterName": "",
+                              "displayStyleGroupId": "[$GROUP_ID$]",
+                              "filterField": "ddmStructureKey",
+                              "displayStyle": "default",
+                              "immutable": "true",
+                              "filterQueryType": "match",
+                              "filterValue": "JOB LISTING",
+                              "parentQueryName": "",
+                              "queryName": "",
+                              "disabled": "false",
+                              "customHeading": "",
+                              "boost": ""
+                            },
+                            "widgetName": "com_liferay_portal_search_web_internal_custom_filter_portlet_CustomFilterPortlet"
+                          }
+                        },
+                        "type": "Widget"
+                      },
+                      {
+                        "definition": {
+                          "widgetInstance": {
+                            "widgetConfig": {
                               "vocabularyIds": "[$TAXONOMY_VOCABULARY_ID:Regions$]",
-                              "displayStyle": "ddmTemplate_Search Category",
+                              "displayStyle": "ddmTemplate_SEARCH CATEGORY",
                               "maxTerms": "10",
                               "displayStyleGroupKey": "[$GROUP_KEY$]",
                               "frequencyThreshold": "1",
@@ -167,14 +222,19 @@
                     "definition": {
                       "columnViewports": [
                         {
-                          "columnViewportDefinition": { "size": 12 },
+                          "columnViewportDefinition": {
+                            "size": 12
+                          },
                           "id": "landscapeMobile"
                         },
                         {
                           "columnViewportDefinition": {},
                           "id": "portraitMobile"
                         },
-                        { "columnViewportDefinition": {}, "id": "tablet" }
+                        {
+                          "columnViewportDefinition": {},
+                          "id": "tablet"
+                        }
                       ],
                       "size": 9
                     },
@@ -198,7 +258,6 @@
               },
               {
                 "definition": {
-                  "fragmentStyle": { "hidden": true },
                   "widgetInstance": {
                     "widgetConfig": {
                       "federatedSearchKey": "",

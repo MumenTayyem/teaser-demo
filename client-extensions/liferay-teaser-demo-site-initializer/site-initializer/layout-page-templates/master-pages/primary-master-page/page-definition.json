@@ -502,7 +502,7 @@
                             "pageElements": [
                               {
                                 "definition": {
-                                  "customCSS": ".custom-navigation .[$FRAGMENT_CLASS$] .panel-title {\n\tdisplay: none;\n}\n\n.custom-navigation .[$FRAGMENT_CLASS$] .panel-body,.custom-navigation .[$FRAGMENT_CLASS$] .tree-node,.custom-navigation .[$FRAGMENT_CLASS$] .portlet-content{\n\tpadding: 0;\n}",
+                                  "customCSS": ".custom-navigation .[$FRAGMENT_CLASS$] .panel-title {\n\tdisplay: none;\n}\n\n.custom-navigation .[$FRAGMENT_CLASS$] .panel-body,.custom-navigation .[$FRAGMENT_CLASS$] .tree-node,.custom-navigation .[$FRAGMENT_CLASS$] .portlet-content{\n\tpadding: 0;\n}\n\n.custom-navigation .[$FRAGMENT_CLASS$] .tree-node{\n  margin-bottom: 15px;\n}\n",
                                   "widgetInstance": {
                                     "widgetConfig": {
                                       "displayStyle": "default",
