@@ -9,5 +9,16 @@
 		"alternateName": "terrence.wheatley",
 		"givenName": "Terrence",
 		"familyName": "Wheatley"
+	},
+	{
+		"accountBriefs": [
+			{
+				"externalReferenceCode": "CLARITY_ADMIN"
+			}
+		],
+		"emailAddress": "admin@clarityvisionsolutions.com",
+		"alternateName": "admin.clarityvisionsolutions",
+		"givenName": "Admin",
+		"familyName": "Clarity"
 	}
 ]

@@ -3,5 +3,10 @@
 		"externalReferenceCode": "TERRENCE_WHEATLEY",
 		"name": "Terrence Wheatley",
 		"type": "person"
+	},
+	{
+		"externalReferenceCode": "CLARITY_ADMIN",
+		"name": "Clarity Admin",
+		"type": "person"
 	}
 ]
