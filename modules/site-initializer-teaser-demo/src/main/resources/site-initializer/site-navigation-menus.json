@@ -1,58 +1,135 @@
 [
-	{
-		"menuItems": [
-			{
-				"menuItems": [
-					{
-						"key": "/site-initializer/journal-articles/courses/course_design.json",
-						"type": "display-page"
-					},
-					{
-						"key": "/site-initializer/journal-articles/courses/course_management.json",
-						"type": "display-page"
-					},
-					{
-						"key": "/site-initializer/journal-articles/courses/course_marketing.json",
-						"type": "display-page"
-					}
-				],
-				"name_i18n": {
-					"en_US": "Courses"
-				},
-				"title": "Courses",
-				"type": "node"
-			},
-			{
-				"friendlyURL": "/blog",
-				"privateLayout": false,
-				"type": "layout"
-			},
-			{
-				"friendlyURL": "/apply",
-				"privateLayout": false,
-				"type": "layout"
-			}
-		],
-		"name": "Main Navigation"
-	},
-	{
-		"menuItems": [
-			{
-				"friendlyURL": "/my-learning",
-				"privateLayout": false,
-				"type": "layout"
-			},
-			{
-				"friendlyURL": "/notifications",
-				"privateLayout": false,
-				"type": "layout"
-			},
-			{
-				"friendlyURL": "/account-settings",
-				"privateLayout": false,
-				"type": "layout"
-			}
-		],
-		"name": "Private Area Navigation"
-	}
+  {
+    "name": "Footer Products Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "name_i18n": {
+          "en_US": "Eyeglasses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/eyeglasses"
+      },
+      {
+        "name_i18n": {
+          "en_US": "Sunglasses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/sunglasses"
+      },
+      {
+        "name_i18n": {
+          "en_US": "Contacts"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/contacts"
+      },
+      {
+        "name_i18n": {
+          "en_US": "Lenses"
+        },
+        "type": "url",
+        "url": "/web/clarity/g/lenses"
+      }
+    ]
+  },
+  {
+    "name": "Footer About Us Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/about-us",
+        "name": "About us",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/careers",
+        "name": "Careers",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Footer Get In Touch Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/contact-us",
+        "name": "Contact Us",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Footer Legal Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "name_i18n": {
+          "en_US": "Privacy Policy"
+        },
+        "url": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62660",
+        "type": "url"
+      },
+      {
+        "name_i18n": {
+          "en_US": "Terms of Use"
+        },
+        "url": "https://lr-sales-enablement-demo.liferay.org.es/o/headless-delivery/v1.0/structured-contents/62651",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "name": "Footer Resources Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/blog",
+        "name": "Blog",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/faq",
+        "name": "FAQ",
+        "type": "layout"
+      }
+    ]
+  },
+  {
+    "name": "Header Page Menu",
+    "type": "node",
+    "menuItems": [
+      {
+        "friendlyURL": "/products",
+        "name": "Products",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/about-us",
+        "name": "About Us",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/blog",
+        "name": "Blog",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/faq",
+        "name": "FAQ",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/careers",
+        "name": "Careers",
+        "type": "layout"
+      },
+      {
+        "friendlyURL": "/contact-us",
+        "name": "Contact Us",
+        "type": "layout"
+      }
+    ]
+  }
 ]

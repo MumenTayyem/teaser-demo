@@ -1,52 +1,37 @@
 [
 	{
-		"actions": [
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com.liferay.portal.kernel.model.Group"
-			},
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com_liferay_layout_admin_web_portlet_GroupPagesPortlet"
-			},
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com.liferay.portal.kernel.model.Layout"
-			}
-		],
-		"name": "Student",
-		"scope": 3,
-		"type": 2
+		"name": "Distributor",
+		"scope": 1,
+		"type": 1
 	},
 	{
-		"actions": [
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com.liferay.portal.kernel.model.Group"
-			},
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com_liferay_layout_admin_web_portlet_GroupPagesPortlet"
-			},
-			{
-				"actionIds": [
-					"VIEW"
-				],
-				"resource": "com.liferay.portal.kernel.model.Layout"
-			}
-		],
-		"name": "Teacher",
-		"scope": 3,
-		"type": 2
+		"name": "D4B8 Business Development Manager",
+		"scope": 1,
+		"type": 1
+	},
+	{
+		"name": "IT Manager",
+		"scope": 1,
+		"type": 1
+	},
+	{
+		"name": "Marketing Coordinator",
+		"scope": 1,
+		"type": 1
+	},
+	{
+		"name": "Marketing Manager",
+		"scope": 1,
+		"type": 1
+	},
+	{
+		"name": "Supplier",
+		"scope": 1,
+		"type": 1
+	},
+	{
+		"name": "Web Developer",
+		"scope": 1,
+		"type": 1
 	}
 ]
