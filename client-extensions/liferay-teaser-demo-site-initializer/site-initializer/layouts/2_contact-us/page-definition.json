@@ -79,7 +79,7 @@
                                     "fragmentLink": {},
                                     "text": {
                                       "value_i18n": {
-                                        "en_US": "If you would like to contact us, please fill the information below to direct your inquiry"
+                                        "en_US": "If you would like to contact us, please email us at info@clarityvisionsolutions.com and let us know how we can help you."
                                       }
                                     }
                                   }
@@ -92,118 +92,6 @@
                               "indexed": true
                             },
                             "type": "Fragment"
-                          }
-                        ],
-                        "type": "Section"
-                      },
-                      {
-                        "definition": {
-                          "fragmentStyle": {
-                            "backgroundColor": "",
-                            "overflow": "hidden",
-                            "paddingBottom": "5",
-                            "paddingTop": "5"
-                          },
-                          "indexed": true,
-                          "layout": {
-                            "align": "Center",
-                            "contentDisplay": "FlexRow",
-                            "flexWrap": "Wrap",
-                            "justify": "Center",
-                            "paddingBottom": 4,
-                            "paddingTop": 4
-                          },
-                          "name": "Contact Form"
-                        },
-                        "pageElements": [
-                          {
-                            "definition": {
-                              "formConfig": {
-                                "formReference": {
-                                  "className": "com.liferay.object.model.ObjectDefinition#52807",
-                                  "classType": 0
-                                }
-                              },
-                              "fragmentStyle": {
-                                "backgroundColor": "#FFFFFF",
-                                "borderRadius": "15px",
-                                "paddingBottom": "4",
-                                "paddingLeft": "4",
-                                "paddingRight": "4",
-                                "paddingTop": "4",
-                                "width": "400px"
-                              },
-                              "indexed": true,
-                              "layout": {}
-                            },
-                            "pageElements": [
-                              {
-                                "definition": {
-                                  "fragment": { "key": "INPUTS-text-input" },
-                                  "fragmentConfig": {
-                                    "showCharactersCount": false,
-                                    "placeholder": "",
-                                    "inputFieldId": "ObjectField_fullName"
-                                  },
-                                  "fragmentFields": [],
-                                  "fragmentStyle": { "paddingBottom": "3" },
-                                  "indexed": true
-                                },
-                                "type": "Fragment"
-                              },
-                              {
-                                "definition": {
-                                  "fragment": { "key": "INPUTS-text-input" },
-                                  "fragmentConfig": {
-                                    "showCharactersCount": false,
-                                    "placeholder": "",
-                                    "inputFieldId": "ObjectField_emailAddress"
-                                  },
-                                  "fragmentFields": [],
-                                  "fragmentStyle": { "paddingBottom": "3" },
-                                  "indexed": true
-                                },
-                                "type": "Fragment"
-                              },
-                              {
-                                "definition": {
-                                  "fragment": { "key": "INPUTS-text-input" },
-                                  "fragmentConfig": {
-                                    "showCharactersCount": false,
-                                    "placeholder": "",
-                                    "inputFieldId": "ObjectField_phone"
-                                  },
-                                  "fragmentFields": [],
-                                  "fragmentStyle": { "paddingBottom": "3" },
-                                  "indexed": true
-                                },
-                                "type": "Fragment"
-                              },
-                              {
-                                "definition": {
-                                  "fragment": { "key": "INPUTS-submit-button" },
-                                  "fragmentConfig": {
-                                    "buttonType": "primary",
-                                    "submittedEntryStatus": "2",
-                                    "buttonSize": "nm"
-                                  },
-                                  "fragmentFields": [
-                                    {
-                                      "id": "submit-button-text",
-                                      "value": {
-                                        "fragmentLink": {},
-                                        "text": {
-                                          "value_i18n": { "en_US": "Next" }
-                                        }
-                                      }
-                                    }
-                                  ],
-                                  "indexed": true
-                                },
-                                "type": "Fragment"
-                              }
-                            ],
-                            "type": "Form"
                           }
                         ],
                         "type": "Section"

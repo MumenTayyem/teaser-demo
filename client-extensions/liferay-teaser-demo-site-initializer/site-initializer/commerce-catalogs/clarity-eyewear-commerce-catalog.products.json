@@ -1,9 +1,7 @@
 [
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Introducing our must-have accessory for sunny days – our classic\n  aviator sunglasses! 🕶️</p>\n<p>Whether you're lounging on the beach, driving with the top down, or\n  just enjoying a leisurely walk, these sunglasses are the perfect blend\n  of style and functionality. The timeless aviator design never goes out\n  of fashion, making them a versatile choice for any outfit or occasion.</p>\n<p>Crafted with high-quality materials, these sunglasses offer not only\n  a sleek look but also durability to withstand your fun-filled outdoor\n  adventures. The UV-protective lenses ensure your eyes stay safe from\n  the sun's harmful rays, so you can focus on soaking up the sunshine.</p>\n<p>With a comfortable fit and lightweight feel, you'll forget you're\n  even wearing them – until you catch a glimpse of your stylish self,\n  that is! So why not elevate your sunny day look with our classic\n  aviator sunglasses? Trust us, you won't want to leave home without\n  them! 😎</p>"
-    },
+    "description": "<p>Introducing our must-have accessory for sunny days – our classic\n  aviator sunglasses! 🕶️</p>\n<p>Whether you're lounging on the beach, driving with the top down, or\n  just enjoying a leisurely walk, these sunglasses are the perfect blend\n  of style and functionality. The timeless aviator design never goes out\n  of fashion, making them a versatile choice for any outfit or occasion.</p>\n<p>Crafted with high-quality materials, these sunglasses offer not only\n  a sleek look but also durability to withstand your fun-filled outdoor\n  adventures. The UV-protective lenses ensure your eyes stay safe from\n  the sun's harmful rays, so you can focus on soaking up the sunshine.</p>\n<p>With a comfortable fit and lightweight feel, you'll forget you're\n  even wearing them – until you catch a glimpse of your stylish self,\n  that is! So why not elevate your sunny day look with our classic\n  aviator sunglasses? Trust us, you won't want to leave home without\n  them! 😎</p>",
     "externalReferenceCode": "CLASSIC_AVIATOR_SUNGLASSES",
     "images": ["CLASSIC_AVIATOR_SUNGLASSES.png"],
     "name": "Classic Aviator Sunglasses",
@@ -15,13 +13,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": ""
-    },
+    "description": "",
     "externalReferenceCode": "AQUACOMFORT_PLUS_DAILIES",
     "images": ["AQUACOMFORT_PLUS_DAILIES.png"],
     "name": "AquaComfort Plus Dailies",
@@ -33,13 +34,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": ""
-    },
+    "description": "",
     "externalReferenceCode": "SINGLE_VISION_LENSES",
     "images": ["SINGLE_VISION_LENSES.png"],
     "name": "Single Vision Lenses",
@@ -51,157 +55,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Family Prescription Sunglasses</p>"
-    },
-    "externalReferenceCode": "FAMILY_PRESCRIPTION_SUNGLASSES",
-    "images": ["FAMILY_PRESCRIPTION_SUNGLASSES.png"],
-    "name": "Family Prescription Sunglasses",
-    "minStockQuantity": 5,
-    "sku": "FAMILY_PRESCRIPTION_SUNGLASSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Kids Prescription Sunglasses</p>"
-    },
-    "externalReferenceCode": "KIDS_PRESCRIPTION_SUNGLASSES",
-    "images": ["KIDS_PRESCRIPTION_SUNGLASSES.png"],
-    "name": "Kids Prescription Sunglasses",
-    "minStockQuantity": 5,
-    "sku": "KIDS_PRESCRIPTION_SUNGLASSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Kids Prescription Eyeglasses</p>"
-    },
-    "externalReferenceCode": "KIDS_PRESCRIPTION_EYEGLASSES",
-    "images": ["KIDS_PRESCRIPTION_EYEGLASSES.png"],
-    "name": "Kids Prescription Eyeglasses",
-    "minStockQuantity": 5,
-    "sku": "KIDS_PRESCRIPTION_EYEGLASSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Family Prescription Eyeglasses</p>"
-    },
-    "externalReferenceCode": "FAMILY_PRESCRIPTION_EYEGLASSES",
-    "images": ["FAMILY_PRESCRIPTION_EYEGLASSES.png"],
-    "name": "Family Prescription Eyeglasses",
-    "minStockQuantity": 5,
-    "sku": "FAMILY_PRESCRIPTION_EYEGLASSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Soft Contacts</p>"
-    },
-    "externalReferenceCode": "SOFT_CONTACTS",
-    "images": ["SOFT_CONTACTS.png"],
-    "name": "Soft Contacts",
-    "minStockQuantity": 5,
-    "sku": "SOFT_CONTACTS",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Hard Contacts</p>"
-    },
-    "externalReferenceCode": "HARD_CONTACTS",
-    "images": ["HARD_CONTACTS.png"],
-    "name": "Hard Contacts",
-    "minStockQuantity": 5,
-    "sku": "HARD_CONTACTS",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Tinted Lenses</p>"
-    },
-    "externalReferenceCode": "TINTED_LENSES",
-    "images": ["TINTED_LENSES.png"],
-    "name": "Tinted Lenses",
-    "minStockQuantity": 5,
-    "sku": "TINTED_LENSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Polarized Lenses</p>"
-    },
-    "externalReferenceCode": "POLARIZED_LENSES",
-    "images": ["POLARIZED_LENSES.png"],
-    "name": "Polarized Lenses",
-    "minStockQuantity": 5,
-    "sku": "POLARIZED_LENSES",
-    "warehouse1": 60,
-    "height": 0,
-    "weight": 0,
-    "width": 0,
-    "cost": 101,
-    "price": 101,
-    "promoPrice": 202
-  },
-  {
-    "categories": [],
-    "description": {
-      "en_US": "<p>Sports Sunglasses</p>"
-    },
+    "description": "<p>Sports Sunglasses</p>",
     "externalReferenceCode": "SPORTS_SUNGLASSES",
     "images": ["SPORTS_SUNGLASSES.png"],
     "name": "Sports Sunglasses",
@@ -213,13 +76,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Retro Round Sunglasses</p>"
-    },
+    "description": "<p>Retro Round Sunglasses</p>",
     "externalReferenceCode": "RETRO_ROUND_SUNGLASSES",
     "images": ["RETRO_ROUND_SUNGLASSES.png"],
     "name": "Retro Round Sunglasses",
@@ -231,13 +97,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Cat Eye Sunglasses</p>"
-    },
+    "description": "<p>Cat Eye Sunglasses</p>",
     "externalReferenceCode": "CAT_EYE_SUNGLASSES",
     "images": ["CAT_EYE_SUNGLASSES.png"],
     "name": "Cat Eye Sunglasses",
@@ -249,13 +118,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
-    "categories": [],
-    "description": {
-      "en_US": "<p>Oversized Square Sunglasses</p>"
-    },
+    "categories": ["Sunglasses"],
+    "description": "<p>Oversized Square Sunglasses</p>",
     "externalReferenceCode": "OVERSIZED_SQUARE_SUNGLASSES",
     "images": ["OVERSIZED_SQUARE_SUNGLASSES.png"],
     "name": "Oversized Square Sunglasses",
@@ -267,13 +139,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Round Metal Sunglasses</p>"
-    },
+    "description": "<p>Round Metal Sunglasses</p>",
     "externalReferenceCode": "ROUND_METAL_SUNGLASSES",
     "images": ["ROUND_METAL_SUNGLASSES.png"],
     "name": "Round Metal Sunglasses",
@@ -285,13 +160,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>ClearVision 1-Day Contact Lenses</p>"
-    },
+    "description": "<p>ClearVision 1-Day Contact Lenses</p>",
     "externalReferenceCode": "CLEARVISION_1-DAY_CONTACT_LENSES",
     "images": ["CLEARVISION_1-DAY_CONTACT_LENSES.png"],
     "name": "ClearVision 1-Day Contact Lenses",
@@ -303,13 +181,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Biofinity Monthly Contact Lenses</p>"
-    },
+    "description": "<p>Biofinity Monthly Contact Lenses</p>",
     "externalReferenceCode": "BIOFINITY_MONTHLY_CONTACT_LENSES",
     "images": ["BIOFINITY_MONTHLY_CONTACT_LENSES.png"],
     "name": "Biofinity Monthly Contact Lenses",
@@ -321,13 +202,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Air Optix Aqua Monthly Lenses</p>"
-    },
+    "description": "<p>Air Optix Aqua Monthly Lenses</p>",
     "externalReferenceCode": "AIR_OPTIX_AQUA_MONTHLY_LENSES",
     "images": ["AIR_OPTIX_AQUA_MONTHLY_LENSES.png"],
     "name": "Air Optix Aqua Monthly Lenses",
@@ -339,13 +223,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Air Optix Colors</p>"
-    },
+    "description": "<p>Air Optix Colors</p>",
     "externalReferenceCode": "AIR_OPTIX_COLORS",
     "images": ["AIR_OPTIX_COLORS.png"],
     "name": "Air Optix Colors",
@@ -357,13 +244,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Bifocal Lenses</p>"
-    },
+    "description": "<p>Bifocal Lenses</p>",
     "externalReferenceCode": "BIFOCAL_LENSES",
     "images": ["BIFOCAL_LENSES.png"],
     "name": "Bifocal Lenses",
@@ -375,13 +265,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Progressive Lenses</p>"
-    },
+    "description": "<p>Progressive Lenses</p>",
     "externalReferenceCode": "PROGRESSIVE_LENSES",
     "images": ["PROGRESSIVE_LENSES.png"],
     "name": "Progressive Lenses",
@@ -393,13 +286,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Clear Lenses</p>"
-    },
+    "description": "<p>Clear Lenses</p>",
     "externalReferenceCode": "CLEAR_LENSES",
     "images": ["CLEAR_LENSES.png"],
     "name": "Clear Lenses",
@@ -411,13 +307,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Blue Light Blocking Lenses</p>"
-    },
+    "description": "<p>Blue Light Blocking Lenses</p>",
     "externalReferenceCode": "BLUE_LIGHT_BLOCKING_LENSES",
     "images": ["BLUE_LIGHT_BLOCKING_LENSES.png"],
     "name": "Blue Light Blocking Lenses",
@@ -429,13 +328,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>FreshLook ColorBlends</p>"
-    },
+    "description": "<p>FreshLook ColorBlends</p>",
     "externalReferenceCode": "FRESHLOOK_COLORBLENDS",
     "images": ["FRESHLOOK_COLORBLENDS.png"],
     "name": "FreshLook ColorBlends",
@@ -447,13 +349,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Biofinity Toric Lenses</p>"
-    },
+    "description": "<p>Biofinity Toric Lenses</p>",
     "externalReferenceCode": "BIOFINITY_TORIC_LENSES",
     "images": ["BIOFINITY_TORIC_LENSES.png"],
     "name": "Biofinity Toric Lenses",
@@ -465,13 +370,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Sophisticated Rectangle</p>"
-    },
+    "description": "<p>Sophisticated Rectangle</p>",
     "externalReferenceCode": "SOPHISTICATED_RECTANGLE",
     "images": ["SOPHISTICATED_RECTANGLE.png"],
     "name": "Sophisticated Rectangle",
@@ -483,13 +391,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Trendy Oversized</p>"
-    },
+    "description": "<p>Trendy Oversized</p>",
     "externalReferenceCode": "TRENDY_OVERSIZED",
     "images": ["TRENDY_OVERSIZED.png"],
     "name": "Trendy Oversized",
@@ -501,13 +412,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Elegant Cat Eye</p>"
-    },
+    "description": "<p>Elegant Cat Eye</p>",
     "externalReferenceCode": "ELEGANT_CAT_EYE",
     "images": ["ELEGANT_CAT_EYE.png"],
     "name": "Elegant Cat Eye",
@@ -519,13 +433,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Modern Rectangle</p>"
-    },
+    "description": "<p>Modern Rectangle</p>",
     "externalReferenceCode": "MODERN_RECTANGLE",
     "images": ["MODERN_RECTANGLE.png"],
     "name": "Modern Rectangle",
@@ -537,13 +454,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Vintage Round</p>"
-    },
+    "description": "<p>Vintage Round</p>",
     "externalReferenceCode": "VINTAGE_ROUND",
     "images": ["VINTAGE_ROUND.png"],
     "name": "Vintage Round",
@@ -555,13 +475,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Classic Aviator</p>"
-    },
+    "description": "<p>Classic Aviator</p>",
     "externalReferenceCode": "CLASSIC_AVIATOR",
     "images": ["CLASSIC_AVIATOR.png"],
     "name": "Classic Aviator",
@@ -573,13 +496,16 @@
     "width": 0,
     "cost": 0,
     "price": 0,
-    "promoPrice": 0
+    "promoPrice": 0,
+    "options": [
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Multifocal Lenses</p>"
-    },
+    "description": "<p>Multifocal Lenses</p>",
     "externalReferenceCode": "MULTIFOCAL_LENSES",
     "images": ["MULTIFOCAL_LENSES.png"],
     "name": "Multifocal Lenses",
@@ -593,16 +519,14 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Toric Lenses</p>"
-    },
+    "description": "<p>Toric Lenses</p>",
     "externalReferenceCode": "TORIC_LENSES",
     "images": ["TORIC_LENSES.png"],
     "name": "Toric Lenses",
@@ -616,16 +540,14 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Monthly Disposable Lenses</p>"
-    },
+    "description": "<p>Monthly Disposable Lenses</p>",
     "externalReferenceCode": "MONTHLY_DISPOSABLE_LENSES",
     "images": ["MONTHLY_DISPOSABLE_LENSES.png"],
     "name": "Monthly Disposable Lenses",
@@ -639,16 +561,14 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Daily Disposable Lenses</p>"
-    },
+    "description": "<p>Daily Disposable Lenses</p>",
     "externalReferenceCode": "DAILY_DISPOSABLE_LENSES",
     "images": ["DAILY_DISPOSABLE_LENSES.png"],
     "name": "Daily Disposable Lenses",
@@ -662,16 +582,14 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Photochromic Lenses</p>"
-    },
+    "description": "<p>Photochromic Lenses</p>",
     "externalReferenceCode": "PHOTOCHROMIC_LENSES",
     "images": ["PHOTOCHROMIC_LENSES.png"],
     "name": "Photochromic Lenses",
@@ -685,16 +603,14 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Acuvue Oasys for Astigmatism</p>"
-    },
+    "description": "<p>Acuvue Oasys for Astigmatism</p>",
     "externalReferenceCode": "ACUVUE_OASYS_FOR_ASTIGMATISM",
     "images": ["ACUVUE_OASYS_FOR_ASTIGMATISM.png"],
     "name": "Acuvue Oasys for Astigmatism",
@@ -708,9 +624,9 @@
     "price": 0,
     "promoPrice": 0,
     "options": [
-			{
-				"key": "premium-box-option"
-			}
-		]
+      {
+        "key": "premium-box-option"
+      }
+    ]
   }
 ]
