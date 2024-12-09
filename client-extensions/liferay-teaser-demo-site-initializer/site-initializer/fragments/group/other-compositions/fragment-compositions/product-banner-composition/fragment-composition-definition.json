@@ -1,1 +1,177 @@
-{"definition":{"fragmentStyle":{"backgroundFragmentImage":{"title":{"value":"products-banner"},"url":{"value":"/documents/d/asset-library-34776/products-banner?imagePreview=1"}},"height":"460px","paddingLeft":"7","paddingRight":"7"},"indexed":true,"layout":{"align":"Center","contentDisplay":"FlexRow","flexWrap":"Wrap","paddingLeft":8,"paddingRight":8},"name":"Banner"},"id":"8af7e6c5-789c-4233-6538-f009111a4878","pageElements":[{"definition":{"fragmentStyle":{"width":"100%"},"gutters":true,"indexed":true,"modulesPerRow":2,"numberOfColumns":2,"reverseOrder":false,"rowViewports":[{"id":"landscapeMobile","rowViewportDefinition":{"modulesPerRow":1}},{"id":"portraitMobile","rowViewportDefinition":{}},{"id":"tablet","rowViewportDefinition":{}}],"verticalAlignment":"middle"},"id":"d1ca35a1-243b-a917-bdb9-5ff5515cb51c","pageElements":[{"definition":{"columnViewports":[{"columnViewportDefinition":{"size":12},"id":"landscapeMobile"},{"columnViewportDefinition":{},"id":"portraitMobile"},{"columnViewportDefinition":{},"id":"tablet"}],"size":6},"id":"fd4cd5b4-3718-b9ae-34eb-c1937517fce4","pageElements":[{"definition":{"fragment":{"key":"BASIC_COMPONENT-heading"},"fragmentConfig":{"headingLevel":"h1"},"fragmentFields":[{"id":"element-text","value":{"fragmentLink":{},"text":{"value_i18n":{"en_US":"Elevate Your Eyewear Business with Premium Quality"}}}}],"fragmentStyle":{"marginBottom":"5"},"indexed":true},"id":"8c13fd91-13b0-d21e-326e-f54dad42eae9","type":"Fragment"},{"definition":{"fragment":{"key":"BASIC_COMPONENT-paragraph"},"fragmentConfig":{},"fragmentFields":[{"id":"element-text","value":{"fragmentLink":{},"text":{"value_i18n":{"en_US":"Elevate your brand with a curaed selection of glasses, sunglasses, conact and lenses"}}}}],"indexed":true},"id":"fcc3ec4e-31b9-5a43-e80c-c16f67032aa5","type":"Fragment"},{"definition":{"fragment":{"key":"dialect-dialect-button","siteKey":"[$GROUP_KEY$]"},"fragmentConfig":{"uppercase":false,"iconName":"eyeglasses","style":"primary","type":"solid","inverted":false,"buttonSize":""},"fragmentFields":[{"id":"link","value":{"fragmentLink":{"value":{"href":{"mapping":{"itemReference":{"className":"com.liferay.portal.kernel.model.Layout","fields":[{"fieldName":"friendlyURL","fieldValue":"/product-list"},{"fieldName":"privatePage","fieldValue":"false"},{"fieldName":"siteKey","fieldValue":"[$GROUP_KEY$]"}]}}}}},"text":{"value_i18n":{"en_US":"Explore&nbsp;"}}}},{"id":"text","value":{"fragmentLink":{}}}],"fragmentStyle":{"paddingTop":"4"},"indexed":true},"id":"46779924-7042-7b31-337b-7491923e9b8b","type":"Fragment"}],"type":"Column"},{"definition":{"columnViewports":[{"columnViewportDefinition":{"size":12},"id":"landscapeMobile"},{"columnViewportDefinition":{},"id":"portraitMobile"},{"columnViewportDefinition":{},"id":"tablet"}],"size":6},"id":"6af37c94-db08-c9b4-18a5-c0c5a5e65d25","type":"Column"}],"type":"Row"}],"type":"Section"}
+{
+  "definition": {
+    "fragmentStyle": {
+      "backgroundFragmentImage": {
+        "title": { "value": "products-banner" },
+        "url": {
+          "value_i18n": {
+            "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products-banner.jpg$]"
+          }
+        }
+      },
+      "height": "460px",
+      "paddingLeft": "7",
+      "paddingRight": "7"
+    },
+    "indexed": true,
+    "layout": {
+      "align": "Center",
+      "contentDisplay": "FlexRow",
+      "flexWrap": "Wrap",
+      "paddingLeft": 8,
+      "paddingRight": 8
+    },
+    "name": "Banner"
+  },
+  "pageElements": [
+    {
+      "definition": {
+        "fragmentStyle": { "width": "100%" },
+        "gutters": true,
+        "indexed": true,
+        "modulesPerRow": 2,
+        "numberOfColumns": 2,
+        "reverseOrder": false,
+        "rowViewports": [
+          {
+            "id": "landscapeMobile",
+            "rowViewportDefinition": { "modulesPerRow": 1 }
+          },
+          { "id": "portraitMobile", "rowViewportDefinition": {} },
+          { "id": "tablet", "rowViewportDefinition": {} }
+        ],
+        "verticalAlignment": "middle"
+      },
+      "pageElements": [
+        {
+          "definition": {
+            "columnViewports": [
+              {
+                "columnViewportDefinition": { "size": 12 },
+                "id": "landscapeMobile"
+              },
+              { "columnViewportDefinition": {}, "id": "portraitMobile" },
+              { "columnViewportDefinition": {}, "id": "tablet" }
+            ],
+            "size": 6
+          },
+          "pageElements": [
+            {
+              "definition": {
+                "fragment": { "key": "BASIC_COMPONENT-heading" },
+                "fragmentConfig": { "headingLevel": "h1" },
+                "fragmentFields": [
+                  {
+                    "id": "element-text",
+                    "value": {
+                      "fragmentLink": {},
+                      "text": {
+                        "value_i18n": {
+                          "en_US": "Elevate Your Eyewear Business with Premium Quality"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "fragmentStyle": { "marginBottom": "5" },
+                "indexed": true
+              },
+              "type": "Fragment"
+            },
+            {
+              "definition": {
+                "fragment": { "key": "BASIC_COMPONENT-paragraph" },
+                "fragmentConfig": {},
+                "fragmentFields": [
+                  {
+                    "id": "element-text",
+                    "value": {
+                      "fragmentLink": {},
+                      "text": {
+                        "value_i18n": {
+                          "en_US": "Elevate your brand with a curaed selection of glasses, sunglasses, conact and lenses"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "indexed": true
+              },
+              "type": "Fragment"
+            },
+            {
+              "definition": {
+                "fragment": {
+                  "key": "dialect-dialect-button",
+                  "siteKey": "[$GROUP_KEY$]"
+                },
+                "fragmentConfig": {
+                  "uppercase": false,
+                  "iconName": "eyeglasses",
+                  "style": "primary",
+                  "type": "solid",
+                  "inverted": false,
+                  "buttonSize": ""
+                },
+                "fragmentFields": [
+                  {
+                    "id": "link",
+                    "value": {
+                      "fragmentLink": {
+                        "value": {
+                          "href": {
+                            "mapping": {
+                              "itemReference": {
+                                "className": "com.liferay.portal.kernel.model.Layout",
+                                "fields": [
+                                  {
+                                    "fieldName": "friendlyURL",
+                                    "fieldValue": "/product-list"
+                                  },
+                                  {
+                                    "fieldName": "privatePage",
+                                    "fieldValue": "false"
+                                  },
+                                  {
+                                    "fieldName": "siteKey",
+                                    "fieldValue": "[$GROUP_KEY$]"
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "text": { "value_i18n": { "en_US": "Explore&nbsp;" } }
+                    }
+                  },
+                  { "id": "text", "value": { "fragmentLink": {} } }
+                ],
+                "fragmentStyle": { "paddingTop": "4" },
+                "indexed": true
+              },
+              "type": "Fragment"
+            }
+          ],
+          "type": "Column"
+        },
+        {
+          "definition": {
+            "columnViewports": [
+              {
+                "columnViewportDefinition": { "size": 12 },
+                "id": "landscapeMobile"
+              },
+              { "columnViewportDefinition": {}, "id": "portraitMobile" },
+              { "columnViewportDefinition": {}, "id": "tablet" }
+            ],
+            "size": 6
+          },
+          "type": "Column"
+        }
+      ],
+      "type": "Row"
+    }
+  ],
+  "type": "Section"
+}
