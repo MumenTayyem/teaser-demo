@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="uWUa4eK9" name="image" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader-daniel-lewis.png$]]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader_daniel_lewis.png$]]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="OAu2cItL" name="name" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Daniel Lewis]]></dynamic-content>

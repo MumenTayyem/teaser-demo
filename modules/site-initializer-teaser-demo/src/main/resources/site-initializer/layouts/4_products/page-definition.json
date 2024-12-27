@@ -25,9 +25,9 @@
             "definition": {
               "fragmentStyle": {
                 "backgroundFragmentImage": {
-                  "title": { "value": "products-banner" },
+                  "title": { "value": "products_banner" },
                   "url": { 
-                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products-banner.jpg$]"
+                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products_banner.jpg$]"
                   }
                 },
                 "height": "460px",

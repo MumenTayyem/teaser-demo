@@ -1,3 +1,7 @@
+.category-height {
+	min-height: 16px;
+}
+
 .card {
 	background-color: #f8f8f8;
 }
@@ -13,7 +17,7 @@
 
 .card-image {
 	height: 200px;
-	object-fit: cover;	
+	object-fit: cover;
 }
 
 .rounded-corners {

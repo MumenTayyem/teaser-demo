@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="Y6rBImYX" name="image" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader-diego-morales.png$]]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader_diego_morales.png$]]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="9Xz4ILps" name="name" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Diego Morales]]></dynamic-content>

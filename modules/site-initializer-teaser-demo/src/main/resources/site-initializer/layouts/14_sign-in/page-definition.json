@@ -5,9 +5,9 @@
         "definition": {
           "fragmentStyle": {
             "backgroundFragmentImage": {
-              "title": { "value": "login-completeimage" },
+              "title": { "value": "login_completeimage" },
               "url": { 
-                "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/login-completeimage.png$]"
+                "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/login_completeimage.png$]"
               }
             },
             "minHeight": "700px"

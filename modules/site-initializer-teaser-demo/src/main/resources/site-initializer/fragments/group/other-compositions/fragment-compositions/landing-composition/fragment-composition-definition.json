@@ -31,8 +31,8 @@
         "fragmentStyle": {
           "backgroundColor": "gray500Color",
           "backgroundFragmentImage": {
-            "title": { "value": "home-promotion" },
-            "url": { "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/home-promotion.png$]"
+            "title": { "value": "home_promotion" },
+            "url": { "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/home_promotion.png$]"
          }
           },
           "borderWidth": "0",
@@ -252,7 +252,7 @@
                                 },
                                 "url": {
                                   "value_i18n": {
-                                    "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses-in-front-of-leaf-small.png$]"
+                                    "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses_in_front_of_leaf_small.png$]"
                                   }
                                 }
                               },
@@ -462,7 +462,7 @@
                                 },
                                 "url": {
                                   "value_i18n": {
-                                    "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses-pink-and-gold.jpg$]"
+                                    "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses_pink_and_gold.jpg$]"
                                   }
                                 }
                               },

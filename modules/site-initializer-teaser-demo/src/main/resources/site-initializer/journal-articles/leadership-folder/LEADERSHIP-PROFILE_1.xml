@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="B1jh0PWy" name="image" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader-alexis-harper.png$]]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[[$DOCUMENT_JSON:/site-initializer/documents/group/Leadership/leader_alexis_harper.png$]]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="ijKNJtdn" name="name" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Alexis Harper]]></dynamic-content>

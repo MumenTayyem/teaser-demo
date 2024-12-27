@@ -12,13 +12,13 @@
             "definition": {
               "fragmentStyle": {
                 "backgroundFragmentImage": {
-                  "title": { "value": "aboutus-banner-big" },
+                  "title": { "value": "aboutus_banner_big" },
                   "url": {
                     "mapping": {
                       "fieldKey": "FileEntry_fileURL",
                       "itemReference": {
                         "className": "com.liferay.portal.kernel.repository.model.FileEntry",
-                        "classPK": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Marketing Assets/aboutus-banner-big.png#]"
+                        "classPK": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Marketing Assets/aboutus_banner_big.png#]"
                       }
                     }
                   }
@@ -1034,7 +1034,7 @@
                                                   "classPKReferences": {
                                                     "en_US": {
                                                       "className": "com.liferay.portal.kernel.repository.model.FileEntry",
-                                                      "classPK": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Marketing Assets/glasses-in-front-of-leaf-small.png#]"
+                                                      "classPK": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Marketing Assets/glasses_in_front_of_leaf_small.png#]"
                                                     }
                                                   },
                                                   "fragmentImageConfiguration": {
