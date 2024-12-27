@@ -1,9 +1,7 @@
 [
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Introducing our must-have accessory for sunny days – our classic\n  aviator sunglasses! 🕶️</p>\n<p>Whether you're lounging on the beach, driving with the top down, or\n  just enjoying a leisurely walk, these sunglasses are the perfect blend\n  of style and functionality. The timeless aviator design never goes out\n  of fashion, making them a versatile choice for any outfit or occasion.</p>\n<p>Crafted with high-quality materials, these sunglasses offer not only\n  a sleek look but also durability to withstand your fun-filled outdoor\n  adventures. The UV-protective lenses ensure your eyes stay safe from\n  the sun's harmful rays, so you can focus on soaking up the sunshine.</p>\n<p>With a comfortable fit and lightweight feel, you'll forget you're\n  even wearing them – until you catch a glimpse of your stylish self,\n  that is! So why not elevate your sunny day look with our classic\n  aviator sunglasses? Trust us, you won't want to leave home without\n  them! 😎</p>"
-    },
+    "description": "Introducing our must-have accessory for sunny days – our classic\n  aviator sunglasses! 🕶️\nWhether you're lounging on the beach, driving with the top down, or\n  just enjoying a leisurely walk, these sunglasses are the perfect blend\n  of style and functionality. The timeless aviator design never goes out\n  of fashion, making them a versatile choice for any outfit or occasion.\nCrafted with high-quality materials, these sunglasses offer not only\n  a sleek look but also durability to withstand your fun-filled outdoor\n  adventures. The UV-protective lenses ensure your eyes stay safe from\n  the sun's harmful rays, so you can focus on soaking up the sunshine.\nWith a comfortable fit and lightweight feel, you'll forget you're\n  even wearing them – until you catch a glimpse of your stylish self,\n  that is! So why not elevate your sunny day look with our classic\n  aviator sunglasses? Trust us, you won't want to leave home without\n  them! 😎",
     "externalReferenceCode": "CLASSIC_AVIATOR_SUNGLASSES",
     "images": ["classic_aviator_sunglasses.png"],
     "name": "Classic Aviator Sunglasses",
@@ -19,9 +17,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": ""
-    },
+    "description": "",
     "externalReferenceCode": "AQUACOMFORT_PLUS_DAILIES",
     "images": ["aquacomfort_plus_dailies.png"],
     "name": "AquaComfort Plus Dailies",
@@ -37,9 +33,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": ""
-    },
+    "description": "",
     "externalReferenceCode": "SINGLE_VISION_LENSES",
     "images": ["single_vision_lenses.png"],
     "name": "Single Vision Lenses",
@@ -55,9 +49,7 @@
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Family Prescription Sunglasses</p>"
-    },
+    "description": "Family Prescription Sunglasses",
     "externalReferenceCode": "FAMILY_PRESCRIPTION_SUNGLASSES",
     "images": ["family_prescription_sunglasses.png"],
     "name": "Family Prescription Sunglasses",
@@ -73,9 +65,7 @@
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Kids Prescription Sunglasses</p>"
-    },
+    "description": "Kids Prescription Sunglasses",
     "externalReferenceCode": "KIDS_PRESCRIPTION_SUNGLASSES",
     "images": ["kids_prescription_sunglasses.png"],
     "name": "Kids Prescription Sunglasses",
@@ -91,9 +81,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Kids Prescription Eyeglasses</p>"
-    },
+    "description": "Kids Prescription Eyeglasses",
     "externalReferenceCode": "KIDS_PRESCRIPTION_EYEGLASSES",
     "images": ["KIDS_PRESCRIPTION_EYEGLASSES.png"],
     "name": "Kids Prescription Eyeglasses",
@@ -109,9 +97,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Family Prescription Eyeglasses</p>"
-    },
+    "description": "Family Prescription Eyeglasses",
     "externalReferenceCode": "FAMILY_PRESCRIPTION_EYEGLASSES",
     "images": ["kids_prescription_eyeglasses.png"],
     "name": "Family Prescription Eyeglasses",
@@ -127,9 +113,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Soft Contacts</p>"
-    },
+    "description": "Soft Contacts",
     "externalReferenceCode": "SOFT_CONTACTS",
     "images": ["soft_contacts.png"],
     "name": "Soft Contacts",
@@ -145,9 +129,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Hard Contacts</p>"
-    },
+    "description": "Hard Contacts",
     "externalReferenceCode": "HARD_CONTACTS",
     "images": ["hard_contacts.png"],
     "name": "Hard Contacts",
@@ -163,9 +145,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Tinted Lenses</p>"
-    },
+    "description": "Tinted Lenses",
     "externalReferenceCode": "TINTED_LENSES",
     "images": ["tinted_lenses.png"],
     "name": "Tinted Lenses",
@@ -181,9 +161,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Polarized Lenses</p>"
-    },
+    "description": "Polarized Lenses",
     "externalReferenceCode": "POLARIZED_LENSES",
     "images": ["polarized_lenses.png"],
     "name": "Polarized Lenses",
@@ -199,9 +177,7 @@
   },
   {
     "categories": [],
-    "description": {
-      "en_US": "<p>Sports Sunglasses</p>"
-    },
+    "description": "Sports Sunglasses",
     "externalReferenceCode": "SPORTS_SUNGLASSES",
     "images": ["sports_sunglasses.png"],
     "name": "Sports Sunglasses",
@@ -217,9 +193,7 @@
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Retro Round Sunglasses</p>"
-    },
+    "description": "Retro Round Sunglasses",
     "externalReferenceCode": "RETRO_ROUND_SUNGLASSES",
     "images": ["retro_round_sunglasses.png"],
     "name": "Retro Round Sunglasses",
@@ -235,9 +209,7 @@
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Cat Eye Sunglasses</p>"
-    },
+    "description": "Cat Eye Sunglasses",
     "externalReferenceCode": "CAT_EYE_SUNGLASSES",
     "images": ["cat_eye_sunglasses.png"],
     "name": "Cat Eye Sunglasses",
@@ -253,9 +225,7 @@
   },
   {
     "categories": [],
-    "description": {
-      "en_US": "<p>Oversized Square Sunglasses</p>"
-    },
+    "description": "Oversized Square Sunglasses",
     "externalReferenceCode": "OVERSIZED_SQUARE_SUNGLASSES",
     "images": ["oversized_square_sunglasses.png"],
     "name": "Oversized Square Sunglasses",
@@ -271,9 +241,7 @@
   },
   {
     "categories": ["Sunglasses"],
-    "description": {
-      "en_US": "<p>Round Metal Sunglasses</p>"
-    },
+    "description": "Round Metal Sunglasses",
     "externalReferenceCode": "ROUND_METAL_SUNGLASSES",
     "images": ["round_metal_sunglasses.png"],
     "name": "Round Metal Sunglasses",
@@ -289,9 +257,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>ClearVision 1-Day Contact Lenses</p>"
-    },
+    "description": "ClearVision 1-Day Contact Lenses",
     "externalReferenceCode": "CLEARVISION_1-DAY_CONTACT_LENSES",
     "images": ["clearvision_1_day_contact_lenses.png"],
     "name": "ClearVision 1-Day Contact Lenses",
@@ -307,9 +273,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Biofinity Monthly Contact Lenses</p>"
-    },
+    "description": "Biofinity Monthly Contact Lenses",
     "externalReferenceCode": "BIOFINITY_MONTHLY_CONTACT_LENSES",
     "images": ["biofinity_monthly_contact_lenses.png"],
     "name": "Biofinity Monthly Contact Lenses",
@@ -325,9 +289,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Air Optix Aqua Monthly Lenses</p>"
-    },
+    "description": "Air Optix Aqua Monthly Lenses",
     "externalReferenceCode": "AIR_OPTIX_AQUA_MONTHLY_LENSES",
     "images": ["air_optix_aqua_monthly_lenses.png"],
     "name": "Air Optix Aqua Monthly Lenses",
@@ -343,9 +305,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Air Optix Colors</p>"
-    },
+    "description": "Air Optix Colors",
     "externalReferenceCode": "AIR_OPTIX_COLORS",
     "images": ["air_optix_colors.png"],
     "name": "Air Optix Colors",
@@ -361,9 +321,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Bifocal Lenses</p>"
-    },
+    "description": "Bifocal Lenses",
     "externalReferenceCode": "BIFOCAL_LENSES",
     "images": ["bifocal_lenses.png"],
     "name": "Bifocal Lenses",
@@ -379,9 +337,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Progressive Lenses</p>"
-    },
+    "description": "Progressive Lenses",
     "externalReferenceCode": "PROGRESSIVE_LENSES",
     "images": ["progressive_lenses.png"],
     "name": "Progressive Lenses",
@@ -397,9 +353,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Clear Lenses</p>"
-    },
+    "description": "Clear Lenses",
     "externalReferenceCode": "CLEAR_LENSES",
     "images": ["clear_lenses.png"],
     "name": "Clear Lenses",
@@ -415,9 +369,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Blue Light Blocking Lenses</p>"
-    },
+    "description": "Blue Light Blocking Lenses",
     "externalReferenceCode": "BLUE_LIGHT_BLOCKING_LENSES",
     "images": ["blue_light_blocking_lenses.png"],
     "name": "Blue Light Blocking Lenses",
@@ -433,9 +385,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>FreshLook ColorBlends</p>"
-    },
+    "description": "FreshLook ColorBlends",
     "externalReferenceCode": "FRESHLOOK_COLORBLENDS",
     "images": ["freshlook_colorblends.png"],
     "name": "FreshLook ColorBlends",
@@ -451,9 +401,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Biofinity Toric Lenses</p>"
-    },
+    "description": "Biofinity Toric Lenses",
     "externalReferenceCode": "BIOFINITY_TORIC_LENSES",
     "images": ["biofinity_toric_lenses.png"],
     "name": "Biofinity Toric Lenses",
@@ -469,9 +417,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Sophisticated Rectangle</p>"
-    },
+    "description": "Sophisticated Rectangle",
     "externalReferenceCode": "SOPHISTICATED_RECTANGLE",
     "images": ["sophisticated_rectangle.png"],
     "name": "Sophisticated Rectangle",
@@ -487,9 +433,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Trendy Oversized</p>"
-    },
+    "description": "Trendy Oversized",
     "externalReferenceCode": "TRENDY_OVERSIZED",
     "images": ["trendy_oversized.png"],
     "name": "Trendy Oversized",
@@ -505,9 +449,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Elegant Cat Eye</p>"
-    },
+    "description": "Elegant Cat Eye",
     "externalReferenceCode": "ELEGANT_CAT_EYE",
     "images": ["elegant_cat_eye.png"],
     "name": "Elegant Cat Eye",
@@ -523,9 +465,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Modern Rectangle</p>"
-    },
+    "description": "Modern Rectangle",
     "externalReferenceCode": "MODERN_RECTANGLE",
     "images": ["modern_rectangle.png"],
     "name": "Modern Rectangle",
@@ -541,9 +481,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Vintage Round</p>"
-    },
+    "description": "Vintage Round",
     "externalReferenceCode": "VINTAGE_ROUND",
     "images": ["vintage_round.png"],
     "name": "Vintage Round",
@@ -559,9 +497,7 @@
   },
   {
     "categories": ["Eyeglasses"],
-    "description": {
-      "en_US": "<p>Classic Aviator</p>"
-    },
+    "description": "Classic Aviator",
     "externalReferenceCode": "CLASSIC_AVIATOR",
     "images": ["classic_aviator.png"],
     "name": "Classic Aviator",
@@ -577,9 +513,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Multifocal Lenses</p>"
-    },
+    "description": "Multifocal Lenses",
     "externalReferenceCode": "MULTIFOCAL_LENSES",
     "images": ["multifocal_lenses.png"],
     "name": "Multifocal Lenses",
@@ -600,9 +534,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Toric Lenses</p>"
-    },
+    "description": "Toric Lenses",
     "externalReferenceCode": "TORIC_LENSES",
     "images": ["toric_lenses.png"],
     "name": "Toric Lenses",
@@ -623,9 +555,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Monthly Disposable Lenses</p>"
-    },
+    "description": "Monthly Disposable Lenses",
     "externalReferenceCode": "MONTHLY_DISPOSABLE_LENSES",
     "images": ["monthly_disposable_lenses.png"],
     "name": "Monthly Disposable Lenses",
@@ -646,9 +576,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Daily Disposable Lenses</p>"
-    },
+    "description": "Daily Disposable Lenses",
     "externalReferenceCode": "DAILY_DISPOSABLE_LENSES",
     "images": ["daily_disposable_lenses.png"],
     "name": "Daily Disposable Lenses",
@@ -669,9 +597,7 @@
   },
   {
     "categories": ["Lenses"],
-    "description": {
-      "en_US": "<p>Photochromic Lenses</p>"
-    },
+    "description": "Photochromic Lenses",
     "externalReferenceCode": "PHOTOCHROMIC_LENSES",
     "images": ["photochromic_lenses.png"],
     "name": "Photochromic Lenses",
@@ -692,9 +618,7 @@
   },
   {
     "categories": ["Contacts"],
-    "description": {
-      "en_US": "<p>Acuvue Oasys for Astigmatism</p>"
-    },
+    "description": "Acuvue Oasys for Astigmatism",
     "externalReferenceCode": "ACUVUE_OASYS_FOR_ASTIGMATISM",
     "images": ["acuvue_oasys_for_astigmatism.png"],
     "name": "Acuvue Oasys for Astigmatism",
