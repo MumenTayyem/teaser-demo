@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="B1jh0PWy" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-alexis-harper-headshot","name":"leader-alexis-harper.png","width":"290","description":"leader-alexis-harper-headshot","title":"leader-alexis-harper","type":"document","uuid":"3843d854-33f2-89bd-b045-a6ed34c85a9f","fileEntryId":"58310","resourcePrimKey":44176,"url":"/documents/d/clarity/leader-alexis-harper-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader_alexis_harper_headshot","name":"leader_alexis_harper.png","width":"290","description":"leader_alexis_harper_headshot","title":"leader_alexis_harper","type":"document","uuid":"3843d854-33f2-89bd-b045-a6ed34c85a9f","fileEntryId":"58310","resourcePrimKey":44176,"url":"/documents/d/clarity/leader_alexis_harper_1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="ijKNJtdn" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Alexis Harper]]></dynamic-content>

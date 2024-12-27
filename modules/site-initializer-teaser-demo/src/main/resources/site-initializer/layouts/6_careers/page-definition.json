@@ -21,9 +21,9 @@
               "fragmentStyle": {
                 "backgroundColor": "gray500Color",
                 "backgroundFragmentImage": {
-                  "title": { "value": "career-hero" },
+                  "title": { "value": "career_hero" },
                   "url": { 
-                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/career-hero.png$]" 
+                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/career_hero.png$]" 
                   }
                 },
                 "borderWidth": "0",

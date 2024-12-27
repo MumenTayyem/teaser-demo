@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="yUpmRpEZ" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-chelsea-lane-headshot","name":"leader-chelsea-lane.png","width":"290","description":"leader-chelsea-lane-headshot","title":"leader-chelsea-lane","type":"document","uuid":"eef20ddf-2f23-3013-74f7-52d6db22ba31","fileEntryId":"58355","resourcePrimKey":44206,"url":"/documents/d/clarity/leader-chelsea-lane-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-chelsea-lane-headshot","name":"leader_chelsea_lane.png","width":"290","description":"leader-chelsea-lane-headshot","title":"leader-chelsea-lane","type":"document","uuid":"eef20ddf-2f23-3013-74f7-52d6db22ba31","fileEntryId":"58355","resourcePrimKey":44206,"url":"/documents/d/clarity/leader-chelsea-lane-1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="wEkN5csQ" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Chelsea Lane]]></dynamic-content>

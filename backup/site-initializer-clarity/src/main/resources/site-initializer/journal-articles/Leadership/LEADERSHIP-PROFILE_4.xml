@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="P0qt1ElG" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-brandon-o'quinn-headshot","name":"leader-brandon-oquinn.png","width":"290","description":"leader-brandon-o'quinn-headshot","title":"leader-brandon-oquinn","type":"document","uuid":"a1e81ceb-8860-4f3d-9489-37a130116662","fileEntryId":"58340","resourcePrimKey":44196,"url":"/documents/d/clarity/leader-brandon-oquinn-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-brandon-o'quinn-headshot","name":"leader_brandon_oquinn.png","width":"290","description":"leader-brandon-o'quinn-headshot","title":"leader-brandon-oquinn","type":"document","uuid":"a1e81ceb-8860-4f3d-9489-37a130116662","fileEntryId":"58340","resourcePrimKey":44196,"url":"/documents/d/clarity/leader-brandon-oquinn-1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="gDtpSxA8" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Brandon O'Quinn]]></dynamic-content>

@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="Y6rBImYX" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-diego-morales-headshot","name":"leader-diego-morales.png","width":"290","description":"leader-diego-morales-headshot","title":"leader-diego-morales","type":"document","uuid":"f3f59e74-37df-f751-5812-f0244b5c9021","fileEntryId":"58400","resourcePrimKey":44236,"url":"/documents/d/clarity/leader-diego-morales-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-diego-morales-headshot","name":"leader_diego_morales.png","width":"290","description":"leader-diego-morales-headshot","title":"leader-diego-morales","type":"document","uuid":"f3f59e74-37df-f751-5812-f0244b5c9021","fileEntryId":"58400","resourcePrimKey":44236,"url":"/documents/d/clarity/leader-diego-morales-1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="9Xz4ILps" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Diego Morales]]></dynamic-content>

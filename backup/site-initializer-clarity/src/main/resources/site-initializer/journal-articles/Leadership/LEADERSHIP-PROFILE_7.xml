@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="uWUa4eK9" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-daniel-lewis-headshot","name":"leader-daniel-lewis.png","width":"290","description":"leader-daniel-lewis-headshot","title":"leader-daniel-lewis","type":"document","uuid":"1f47a84d-32b7-675b-2e13-30a5c9d4214d","fileEntryId":"58385","resourcePrimKey":44226,"url":"/documents/d/clarity/leader-daniel-lewis-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-daniel-lewis-headshot","name":"leader_daniel_lewis.png","width":"290","description":"leader-daniel-lewis-headshot","title":"leader-daniel-lewis","type":"document","uuid":"1f47a84d-32b7-675b-2e13-30a5c9d4214d","fileEntryId":"58385","resourcePrimKey":44226,"url":"/documents/d/clarity/leader-daniel-lewis-1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="OAu2cItL" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Daniel Lewis]]></dynamic-content>

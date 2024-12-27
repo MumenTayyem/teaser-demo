@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="JABHa2VJ" name="Image86724664" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"","name":"sunglasses-on-shelves.png","width":"1808","description":"","title":"sunglasses-on-shelves","type":"document","uuid":"3fd67783-7f00-f7d6-e3b8-8202f23480ae","fileEntryId":"58056","resourcePrimKey":"51862","url":"/documents/d/clarity/sunglasses-on-shelves","height":"1130"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"","name":"sunglasses_on_shelves.png","width":"1808","description":"","title":"sunglasses_on_shelves","type":"document","uuid":"3fd67783-7f00-f7d6-e3b8-8202f23480ae","fileEntryId":"58056","resourcePrimKey":"51862","url":"/documents/d/clarity/sunglasses_on_shelves","height":"1130"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="headline" index-type="text" instance-id="NkhxjhdT" name="RichText97321648" type="rich_text">
 		<dynamic-content language-id="en_US"><![CDATA[<p>2024 Eyewear Trends: What's In and What's Out</p>]]></dynamic-content>

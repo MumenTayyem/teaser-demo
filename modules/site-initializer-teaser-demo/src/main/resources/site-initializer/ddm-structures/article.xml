@@ -6,83 +6,83 @@
 		<name>Article</name>
 		<description></description>
 		<definition>
-			<![CDATA[
-            {
-                "definitionSchemaVersion": "2.0",
-                "availableLanguageIds": [
-                    "en_US"
-                ],
-                "successPage": {
-                    "body": {},
-                    "title": {},
-                    "enabled": false
+        <![CDATA[
+        {
+            "definitionSchemaVersion": "2.0",
+            "availableLanguageIds": [
+                "en_US"
+            ],
+            "successPage": {
+                "body": {},
+                "title": {},
+                "enabled": false
+            },
+            "defaultLanguageId": "en_US",
+            "fields": [
+                {
+                "dataType": "image",
+                "readOnly": false,
+                "label": {
+                    "en_US": "Image"
                 },
-                "defaultLanguageId": "en_US",
-                "fields": [
-                    {
-                    "dataType": "image",
-                    "readOnly": false,
-                    "label": {
-                        "en_US": "Image"
-                    },
-                    "type": "image",
-                    "required": false,
-                    "showLabel": true,
-                    "indexType": "text",
-                    "fieldNamespace": "",
-                    "visibilityExpression": "",
-                    "repeatable": false,
-                    "requiredDescription": true,
-                    "name": "image",
-                    "localizable": true,
-                    "fieldReference": "image",
-                    "tip": {
-                        "en_US": ""
-                    }
-                    },
-                    {
-                    "dataType": "string",
-                    "readOnly": false,
-                    "label": {
-                        "en_US": "Headline"
-                    },
-                    "type": "rich_text",
-                    "required": true,
-                    "showLabel": true,
-                    "indexType": "text",
-                    "fieldNamespace": "",
-                    "visibilityExpression": "",
-                    "repeatable": false,
-                    "name": "headline",
-                    "localizable": true,
-                    "fieldReference": "headline",
-                    "tip": {
-                        "en_US": ""
-                    }
-                    },
-                    {
-                    "dataType": "string",
-                    "readOnly": false,
-                    "label": {
-                        "en_US": "Content"
-                    },
-                    "type": "rich_text",
-                    "required": true,
-                    "showLabel": true,
-                    "indexType": "text",
-                    "fieldNamespace": "",
-                    "visibilityExpression": "",
-                    "repeatable": false,
-                    "name": "content",
-                    "localizable": true,
-                    "fieldReference": "content",
-                    "tip": {
-                        "en_US": ""
-                    }
-                    }
-                ]
+                "type": "image",
+                "required": false,
+                "showLabel": true,
+                "indexType": "text",
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "repeatable": false,
+                "requiredDescription": true,
+                "name": "image",
+                "localizable": true,
+                "fieldReference": "image",
+                "tip": {
+                    "en_US": ""
                 }
-            ]]>
+                },
+                {
+                "dataType": "string",
+                "readOnly": false,
+                "label": {
+                    "en_US": "Headline"
+                },
+                "type": "rich_text",
+                "required": true,
+                "showLabel": true,
+                "indexType": "text",
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "repeatable": false,
+                "name": "headline",
+                "localizable": true,
+                "fieldReference": "headline",
+                "tip": {
+                    "en_US": ""
+                }
+                },
+                {
+                "dataType": "string",
+                "readOnly": false,
+                "label": {
+                    "en_US": "Content"
+                },
+                "type": "rich_text",
+                "required": true,
+                "showLabel": true,
+                "indexType": "text",
+                "fieldNamespace": "",
+                "visibilityExpression": "",
+                "repeatable": false,
+                "name": "content",
+                "localizable": true,
+                "fieldReference": "content",
+                "tip": {
+                    "en_US": ""
+                }
+                }
+            ]
+            }
+        ]]>
 		</definition>
 	</structure>
 </root>

@@ -27,7 +27,7 @@
                 "backgroundFragmentImage": {
                   "title": { "value": "products-banner" },
                   "url": { 
-                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products-banner.jpg$]"
+                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products_banner.jpg$]"
                   }
                 },
                 "height": "460px",

@@ -26,7 +26,7 @@
                 "backgroundFragmentImage": {
                   "title": { "value": "products-banner" },
                   "url": {
-                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products-banner.jpg$]"
+                    "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/products_banner.jpg$]"
                   }
                 },
                 "marginBottom": "5"
@@ -40,9 +40,9 @@
                 "definition": {
                   "fragmentStyle": {
                     "backgroundFragmentImage": {
-                      "title": { "value": "glasses-in-front-of-leaf-small" },
+                      "title": { "value": "glasses_in_front_of_leaf_small" },
                       "url": {
-                        "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses-in-front-of-leaf-small.png$]"
+                        "value": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses_in_front_of_leaf_small.png$]"
                       }
                     }
                   },

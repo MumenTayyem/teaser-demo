@@ -5,7 +5,7 @@
       "en_US": "<p>Introducing our must-have accessory for sunny days – our classic\n  aviator sunglasses! 🕶️</p>\n<p>Whether you're lounging on the beach, driving with the top down, or\n  just enjoying a leisurely walk, these sunglasses are the perfect blend\n  of style and functionality. The timeless aviator design never goes out\n  of fashion, making them a versatile choice for any outfit or occasion.</p>\n<p>Crafted with high-quality materials, these sunglasses offer not only\n  a sleek look but also durability to withstand your fun-filled outdoor\n  adventures. The UV-protective lenses ensure your eyes stay safe from\n  the sun's harmful rays, so you can focus on soaking up the sunshine.</p>\n<p>With a comfortable fit and lightweight feel, you'll forget you're\n  even wearing them – until you catch a glimpse of your stylish self,\n  that is! So why not elevate your sunny day look with our classic\n  aviator sunglasses? Trust us, you won't want to leave home without\n  them! 😎</p>"
     },
     "externalReferenceCode": "CLASSIC_AVIATOR_SUNGLASSES",
-    "images": ["CLASSIC_AVIATOR_SUNGLASSES.png"],
+    "images": ["classic_aviator_sunglasses.png"],
     "name": "Classic Aviator Sunglasses",
     "minStockQuantity": 5,
     "sku": "CLASSIC_AVIATOR_SUNGLASSES",
@@ -23,7 +23,7 @@
       "en_US": ""
     },
     "externalReferenceCode": "AQUACOMFORT_PLUS_DAILIES",
-    "images": ["AQUACOMFORT_PLUS_DAILIES.png"],
+    "images": ["aquacomfort_plus_dailies.png"],
     "name": "AquaComfort Plus Dailies",
     "minStockQuantity": 5,
     "sku": "AQUACOMFORT_PLUS_DAILIES",
@@ -41,7 +41,7 @@
       "en_US": ""
     },
     "externalReferenceCode": "SINGLE_VISION_LENSES",
-    "images": ["SINGLE_VISION_LENSES.png"],
+    "images": ["single_vision_lenses.png"],
     "name": "Single Vision Lenses",
     "minStockQuantity": 5,
     "sku": "SINGLE_VISION_LENSES",
@@ -59,7 +59,7 @@
       "en_US": "<p>Family Prescription Sunglasses</p>"
     },
     "externalReferenceCode": "FAMILY_PRESCRIPTION_SUNGLASSES",
-    "images": ["FAMILY_PRESCRIPTION_SUNGLASSES.png"],
+    "images": ["family_prescription_sunglasses.png"],
     "name": "Family Prescription Sunglasses",
     "minStockQuantity": 5,
     "sku": "FAMILY_PRESCRIPTION_SUNGLASSES",
@@ -77,7 +77,7 @@
       "en_US": "<p>Kids Prescription Sunglasses</p>"
     },
     "externalReferenceCode": "KIDS_PRESCRIPTION_SUNGLASSES",
-    "images": ["KIDS_PRESCRIPTION_SUNGLASSES.png"],
+    "images": ["kids_prescription_sunglasses.png"],
     "name": "Kids Prescription Sunglasses",
     "minStockQuantity": 5,
     "sku": "KIDS_PRESCRIPTION_SUNGLASSES",
@@ -113,7 +113,7 @@
       "en_US": "<p>Family Prescription Eyeglasses</p>"
     },
     "externalReferenceCode": "FAMILY_PRESCRIPTION_EYEGLASSES",
-    "images": ["FAMILY_PRESCRIPTION_EYEGLASSES.png"],
+    "images": ["kids_prescription_eyeglasses.png"],
     "name": "Family Prescription Eyeglasses",
     "minStockQuantity": 5,
     "sku": "FAMILY_PRESCRIPTION_EYEGLASSES",
@@ -131,7 +131,7 @@
       "en_US": "<p>Soft Contacts</p>"
     },
     "externalReferenceCode": "SOFT_CONTACTS",
-    "images": ["SOFT_CONTACTS.png"],
+    "images": ["soft_contacts.png"],
     "name": "Soft Contacts",
     "minStockQuantity": 5,
     "sku": "SOFT_CONTACTS",
@@ -149,7 +149,7 @@
       "en_US": "<p>Hard Contacts</p>"
     },
     "externalReferenceCode": "HARD_CONTACTS",
-    "images": ["HARD_CONTACTS.png"],
+    "images": ["hard_contacts.png"],
     "name": "Hard Contacts",
     "minStockQuantity": 5,
     "sku": "HARD_CONTACTS",
@@ -167,7 +167,7 @@
       "en_US": "<p>Tinted Lenses</p>"
     },
     "externalReferenceCode": "TINTED_LENSES",
-    "images": ["TINTED_LENSES.png"],
+    "images": ["tinted_lenses.png"],
     "name": "Tinted Lenses",
     "minStockQuantity": 5,
     "sku": "TINTED_LENSES",
@@ -185,7 +185,7 @@
       "en_US": "<p>Polarized Lenses</p>"
     },
     "externalReferenceCode": "POLARIZED_LENSES",
-    "images": ["POLARIZED_LENSES.png"],
+    "images": ["polarized_lenses.png"],
     "name": "Polarized Lenses",
     "minStockQuantity": 5,
     "sku": "POLARIZED_LENSES",
@@ -203,7 +203,7 @@
       "en_US": "<p>Sports Sunglasses</p>"
     },
     "externalReferenceCode": "SPORTS_SUNGLASSES",
-    "images": ["SPORTS_SUNGLASSES.png"],
+    "images": ["sports_sunglasses.png"],
     "name": "Sports Sunglasses",
     "minStockQuantity": 5,
     "sku": "SPORTS_SUNGLASSES",
@@ -221,7 +221,7 @@
       "en_US": "<p>Retro Round Sunglasses</p>"
     },
     "externalReferenceCode": "RETRO_ROUND_SUNGLASSES",
-    "images": ["RETRO_ROUND_SUNGLASSES.png"],
+    "images": ["retro_round_sunglasses.png"],
     "name": "Retro Round Sunglasses",
     "minStockQuantity": 5,
     "sku": "RETRO_ROUND_SUNGLASSES",
@@ -239,7 +239,7 @@
       "en_US": "<p>Cat Eye Sunglasses</p>"
     },
     "externalReferenceCode": "CAT_EYE_SUNGLASSES",
-    "images": ["CAT_EYE_SUNGLASSES.png"],
+    "images": ["cat_eye_sunglasses.png"],
     "name": "Cat Eye Sunglasses",
     "minStockQuantity": 5,
     "sku": "CAT_EYE_SUNGLASSES",
@@ -257,7 +257,7 @@
       "en_US": "<p>Oversized Square Sunglasses</p>"
     },
     "externalReferenceCode": "OVERSIZED_SQUARE_SUNGLASSES",
-    "images": ["OVERSIZED_SQUARE_SUNGLASSES.png"],
+    "images": ["oversized_square_sunglasses.png"],
     "name": "Oversized Square Sunglasses",
     "minStockQuantity": 5,
     "sku": "OVERSIZED_SQUARE_SUNGLASSES",
@@ -275,7 +275,7 @@
       "en_US": "<p>Round Metal Sunglasses</p>"
     },
     "externalReferenceCode": "ROUND_METAL_SUNGLASSES",
-    "images": ["ROUND_METAL_SUNGLASSES.png"],
+    "images": ["round_metal_sunglasses.png"],
     "name": "Round Metal Sunglasses",
     "minStockQuantity": 5,
     "sku": "ROUND_METAL_SUNGLASSES",
@@ -293,7 +293,7 @@
       "en_US": "<p>ClearVision 1-Day Contact Lenses</p>"
     },
     "externalReferenceCode": "CLEARVISION_1-DAY_CONTACT_LENSES",
-    "images": ["CLEARVISION_1-DAY_CONTACT_LENSES.png"],
+    "images": ["clearvision_1_day_contact_lenses.png"],
     "name": "ClearVision 1-Day Contact Lenses",
     "minStockQuantity": 5,
     "sku": "CLEARVISION_1-DAY_CONTACT_LENSES",
@@ -311,7 +311,7 @@
       "en_US": "<p>Biofinity Monthly Contact Lenses</p>"
     },
     "externalReferenceCode": "BIOFINITY_MONTHLY_CONTACT_LENSES",
-    "images": ["BIOFINITY_MONTHLY_CONTACT_LENSES.png"],
+    "images": ["biofinity_monthly_contact_lenses.png"],
     "name": "Biofinity Monthly Contact Lenses",
     "minStockQuantity": 5,
     "sku": "BIOFINITY_MONTHLY_CONTACT_LENSES",
@@ -329,7 +329,7 @@
       "en_US": "<p>Air Optix Aqua Monthly Lenses</p>"
     },
     "externalReferenceCode": "AIR_OPTIX_AQUA_MONTHLY_LENSES",
-    "images": ["AIR_OPTIX_AQUA_MONTHLY_LENSES.png"],
+    "images": ["air_optix_aqua_monthly_lenses.png"],
     "name": "Air Optix Aqua Monthly Lenses",
     "minStockQuantity": 5,
     "sku": "AIR_OPTIX_AQUA_MONTHLY_LENSES",
@@ -347,7 +347,7 @@
       "en_US": "<p>Air Optix Colors</p>"
     },
     "externalReferenceCode": "AIR_OPTIX_COLORS",
-    "images": ["AIR_OPTIX_COLORS.png"],
+    "images": ["air_optix_colors.png"],
     "name": "Air Optix Colors",
     "minStockQuantity": 5,
     "sku": "AIR_OPTIX_COLORS",
@@ -365,7 +365,7 @@
       "en_US": "<p>Bifocal Lenses</p>"
     },
     "externalReferenceCode": "BIFOCAL_LENSES",
-    "images": ["BIFOCAL_LENSES.png"],
+    "images": ["bifocal_lenses.png"],
     "name": "Bifocal Lenses",
     "minStockQuantity": 5,
     "sku": "BIFOCAL_LENSES",
@@ -383,7 +383,7 @@
       "en_US": "<p>Progressive Lenses</p>"
     },
     "externalReferenceCode": "PROGRESSIVE_LENSES",
-    "images": ["PROGRESSIVE_LENSES.png"],
+    "images": ["progressive_lenses.png"],
     "name": "Progressive Lenses",
     "minStockQuantity": 5,
     "sku": "PROGRESSIVE_LENSES",
@@ -401,7 +401,7 @@
       "en_US": "<p>Clear Lenses</p>"
     },
     "externalReferenceCode": "CLEAR_LENSES",
-    "images": ["CLEAR_LENSES.png"],
+    "images": ["clear_lenses.png"],
     "name": "Clear Lenses",
     "minStockQuantity": 5,
     "sku": "CLEAR_LENSES",
@@ -419,7 +419,7 @@
       "en_US": "<p>Blue Light Blocking Lenses</p>"
     },
     "externalReferenceCode": "BLUE_LIGHT_BLOCKING_LENSES",
-    "images": ["BLUE_LIGHT_BLOCKING_LENSES.png"],
+    "images": ["blue_light_blocking_lenses.png"],
     "name": "Blue Light Blocking Lenses",
     "minStockQuantity": 5,
     "sku": "BLUE_LIGHT_BLOCKING_LENSES",
@@ -437,7 +437,7 @@
       "en_US": "<p>FreshLook ColorBlends</p>"
     },
     "externalReferenceCode": "FRESHLOOK_COLORBLENDS",
-    "images": ["FRESHLOOK_COLORBLENDS.png"],
+    "images": ["freshlook_colorblends.png"],
     "name": "FreshLook ColorBlends",
     "minStockQuantity": 5,
     "sku": "FRESHLOOK_COLORBLENDS",
@@ -455,7 +455,7 @@
       "en_US": "<p>Biofinity Toric Lenses</p>"
     },
     "externalReferenceCode": "BIOFINITY_TORIC_LENSES",
-    "images": ["BIOFINITY_TORIC_LENSES.png"],
+    "images": ["biofinity_toric_lenses.png"],
     "name": "Biofinity Toric Lenses",
     "minStockQuantity": 5,
     "sku": "BIOFINITY_TORIC_LENSES",
@@ -473,7 +473,7 @@
       "en_US": "<p>Sophisticated Rectangle</p>"
     },
     "externalReferenceCode": "SOPHISTICATED_RECTANGLE",
-    "images": ["SOPHISTICATED_RECTANGLE.png"],
+    "images": ["sophisticated_rectangle.png"],
     "name": "Sophisticated Rectangle",
     "minStockQuantity": 5,
     "sku": "SOPHISTICATED_RECTANGLE",
@@ -491,7 +491,7 @@
       "en_US": "<p>Trendy Oversized</p>"
     },
     "externalReferenceCode": "TRENDY_OVERSIZED",
-    "images": ["TRENDY_OVERSIZED.png"],
+    "images": ["trendy_oversized.png"],
     "name": "Trendy Oversized",
     "minStockQuantity": 5,
     "sku": "TRENDY_OVERSIZED",
@@ -509,7 +509,7 @@
       "en_US": "<p>Elegant Cat Eye</p>"
     },
     "externalReferenceCode": "ELEGANT_CAT_EYE",
-    "images": ["ELEGANT_CAT_EYE.png"],
+    "images": ["elegant_cat_eye.png"],
     "name": "Elegant Cat Eye",
     "minStockQuantity": 5,
     "sku": "ELEGANT_CAT_EYE",
@@ -527,7 +527,7 @@
       "en_US": "<p>Modern Rectangle</p>"
     },
     "externalReferenceCode": "MODERN_RECTANGLE",
-    "images": ["MODERN_RECTANGLE.png"],
+    "images": ["modern_rectangle.png"],
     "name": "Modern Rectangle",
     "minStockQuantity": 5,
     "sku": "MODERN_RECTANGLE",
@@ -545,7 +545,7 @@
       "en_US": "<p>Vintage Round</p>"
     },
     "externalReferenceCode": "VINTAGE_ROUND",
-    "images": ["VINTAGE_ROUND.png"],
+    "images": ["vintage_round.png"],
     "name": "Vintage Round",
     "minStockQuantity": 5,
     "sku": "VINTAGE_ROUND",
@@ -563,7 +563,7 @@
       "en_US": "<p>Classic Aviator</p>"
     },
     "externalReferenceCode": "CLASSIC_AVIATOR",
-    "images": ["CLASSIC_AVIATOR.png"],
+    "images": ["classic_aviator.png"],
     "name": "Classic Aviator",
     "minStockQuantity": 5,
     "sku": "CLASSIC_AVIATOR",
@@ -581,7 +581,7 @@
       "en_US": "<p>Multifocal Lenses</p>"
     },
     "externalReferenceCode": "MULTIFOCAL_LENSES",
-    "images": ["MULTIFOCAL_LENSES.png"],
+    "images": ["multifocal_lenses.png"],
     "name": "Multifocal Lenses",
     "minStockQuantity": 5,
     "sku": "MULTIFOCAL_LENSES",
@@ -604,7 +604,7 @@
       "en_US": "<p>Toric Lenses</p>"
     },
     "externalReferenceCode": "TORIC_LENSES",
-    "images": ["TORIC_LENSES.png"],
+    "images": ["toric_lenses.png"],
     "name": "Toric Lenses",
     "minStockQuantity": 5,
     "sku": "TORIC_LENSES",
@@ -627,7 +627,7 @@
       "en_US": "<p>Monthly Disposable Lenses</p>"
     },
     "externalReferenceCode": "MONTHLY_DISPOSABLE_LENSES",
-    "images": ["MONTHLY_DISPOSABLE_LENSES.png"],
+    "images": ["monthly_disposable_lenses.png"],
     "name": "Monthly Disposable Lenses",
     "minStockQuantity": 5,
     "sku": "MONTHLY_DISPOSABLE_LENSES",
@@ -650,7 +650,7 @@
       "en_US": "<p>Daily Disposable Lenses</p>"
     },
     "externalReferenceCode": "DAILY_DISPOSABLE_LENSES",
-    "images": ["DAILY_DISPOSABLE_LENSES.png"],
+    "images": ["daily_disposable_lenses.png"],
     "name": "Daily Disposable Lenses",
     "minStockQuantity": 5,
     "sku": "DAILY_DISPOSABLE_LENSES",
@@ -673,7 +673,7 @@
       "en_US": "<p>Photochromic Lenses</p>"
     },
     "externalReferenceCode": "PHOTOCHROMIC_LENSES",
-    "images": ["PHOTOCHROMIC_LENSES.png"],
+    "images": ["photochromic_lenses.png"],
     "name": "Photochromic Lenses",
     "minStockQuantity": 5,
     "sku": "PHOTOCHROMIC_LENSES",
@@ -696,7 +696,7 @@
       "en_US": "<p>Acuvue Oasys for Astigmatism</p>"
     },
     "externalReferenceCode": "ACUVUE_OASYS_FOR_ASTIGMATISM",
-    "images": ["ACUVUE_OASYS_FOR_ASTIGMATISM.png"],
+    "images": ["acuvue_oasys_for_astigmatism.png"],
     "name": "Acuvue Oasys for Astigmatism",
     "minStockQuantity": 5,
     "sku": "ACUVUE_OASYS_FOR_ASTIGMATISM",

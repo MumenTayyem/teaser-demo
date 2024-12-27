@@ -2,7 +2,7 @@
 
 <root available-locales="en_US" default-locale="en_US" version="1.0">
 	<dynamic-element field-reference="image" index-type="text" instance-id="u31sHOic" name="Image57490259" type="image">
-		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-clara-murphy-headshot","name":"leader-clara-murphy.png","width":"290","description":"leader-clara-murphy-headshot","title":"leader-clara-murphy","type":"document","uuid":"5a69d067-ec02-c5da-95c0-d383fbaa9f5a","fileEntryId":"58370","resourcePrimKey":44216,"url":"/documents/d/clarity/leader-clara-murphy-1","height":"306"}]]></dynamic-content>
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"32106","alt":"leader-clara-murphy-headshot","name":"leader_clara_murphy.png","width":"290","description":"leader-clara-murphy-headshot","title":"leader-clara-murphy","type":"document","uuid":"5a69d067-ec02-c5da-95c0-d383fbaa9f5a","fileEntryId":"58370","resourcePrimKey":44216,"url":"/documents/d/clarity/leader-clara-murphy-1","height":"306"}]]></dynamic-content>
 	</dynamic-element>
 	<dynamic-element field-reference="name" index-type="keyword" instance-id="emJqI3UX" name="Text49323840" type="text">
 		<dynamic-content language-id="en_US"><![CDATA[Clara Murphy]]></dynamic-content>
