@@ -23,3 +23,15 @@
 .rounded-corners {
 	border-radius: 10px;
 }
+
+p {
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	margin-bottom: 0px;
+}
+
+p:nth-last-child(){
+	margin-bottom: 20px;
+}

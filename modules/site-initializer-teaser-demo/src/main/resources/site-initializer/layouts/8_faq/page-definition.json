@@ -794,7 +794,7 @@
                                     "fragmentLink": {},
                                     "text": {
                                       "mapping": {
-                                        "fieldKey": "DDMStructure_answer",
+                                        "fieldKey": "DDMStructure_headline",
                                         "itemReference": {
                                           "contextSource": "CollectionItem"
                                         }
