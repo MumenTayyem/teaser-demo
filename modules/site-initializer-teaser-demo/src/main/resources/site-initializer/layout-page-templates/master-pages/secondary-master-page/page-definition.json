@@ -183,6 +183,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"HEADER_PAGE_MENU",
                                   "siteNavigationMenuName": "Header Page Menu",
                                   "siteNavigationMenuType": "-1"
                                 },
@@ -468,6 +469,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"FOOTER_LEGAL_MENU",
                                   "siteNavigationMenuName": "Footer Legal Menu",
                                   "siteNavigationMenuType": "-1"
                                 },

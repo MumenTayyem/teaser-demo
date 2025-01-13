@@ -192,7 +192,7 @@
                         "definition": {
                           "fragment": {
                             "key": "dialect-dialect-button",
-                            "siteKey": "Clarity Public Enterprise Website"
+                            "siteKey": "[$GROUP_KEY$]"
                           },
                           "fragmentConfig": {
                             "uppercase": false,

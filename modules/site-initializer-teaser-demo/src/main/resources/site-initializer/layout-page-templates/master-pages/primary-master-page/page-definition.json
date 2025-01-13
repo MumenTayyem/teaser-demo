@@ -158,6 +158,7 @@
                                 "widgetConfig": {
                                   "displayStyle": "ddmTemplate_NAVBAR-BLANK-FTL",
                                   "displayDepth": "0",
+                                  "siteNavigationMenuExternalReferenceCode":"HEADER_PAGE_MENU",
                                   "siteNavigationMenuName": "Header Page Menu",
                                   "siteNavigationMenuType": "-1",
                                   "rootMenuItemType": "absolute",
@@ -593,6 +594,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"FOOTER_ABOUT_US_MENU",
                                   "siteNavigationMenuName": "Footer About Us Menu",
                                   "siteNavigationMenuType": "-1"
                                 },
@@ -674,6 +676,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"FOOTER_RESOURCES_MENU",
                                   "siteNavigationMenuName": "Footer Resources Menu",
                                   "siteNavigationMenuType": "-1"
                                 },
@@ -754,6 +757,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"FOOTER_GET_IN_TOUCH_MENU",
                                   "siteNavigationMenuName": "Footer Get In Touch Menu",
                                   "siteNavigationMenuType": "-1"
                                 },
@@ -895,6 +899,7 @@
                                   "expandedLevels": "auto",
                                   "rootMenuItemLevel": "0",
                                   "rootMenuItemType": "absolute",
+                                  "siteNavigationMenuExternalReferenceCode":"FOOTER_LEGAL_MENU",
                                   "siteNavigationMenuName": "Footer Legal Menu",
                                   "siteNavigationMenuType": "-1"
                                 },
