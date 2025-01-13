@@ -82,7 +82,7 @@
                                       },
                                       "url": {
                                         "value_i18n": {
-                                          "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Clarity Branding and Logo/logo-name-vector.svg$]"
+                                          "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Clarity Branding and Logo/logo_name_vector.svg$]"
                                         }
                                       }
                                     },
@@ -375,7 +375,7 @@
                           "description": { "value_i18n": { "en_US": "" } },
                           "url": {
                             "value_i18n": {
-                              "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Clarity Branding and Logo/logo-full-name-vector.svg$]"
+                              "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Clarity Branding and Logo/logo_full_name_vector.svg$]"
                             }
                           }
                         },
