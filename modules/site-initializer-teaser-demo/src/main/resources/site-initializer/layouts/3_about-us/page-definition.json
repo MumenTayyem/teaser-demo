@@ -1026,21 +1026,8 @@
                                                 "fragmentImage": {
                                                   "url": {
                                                     "value_i18n": {
-                                                      "en_US": ""
+                                                      "en_US": "[$DOCUMENT_URL:/site-initializer/documents/group/Marketing Assets/glasses_in_front_of_leaf_small.png$]"
                                                     }
-                                                  }
-                                                },
-                                                "fragmentImageClassPKReference": {
-                                                  "classPKReferences": {
-                                                    "en_US": {
-                                                      "className": "com.liferay.portal.kernel.repository.model.FileEntry",
-                                                      "classPK": "[#DOCUMENT_FILE_ENTRY_ID:/site-initializer/documents/group/Marketing Assets/glasses_in_front_of_leaf_small.png#]"
-                                                    }
-                                                  },
-                                                  "fragmentImageConfiguration": {
-                                                    "landscapeMobile": "auto",
-                                                    "portraitMobile": "auto",
-                                                    "tablet": "auto"
                                                   }
                                                 },
                                                 "fragmentLink": {}
