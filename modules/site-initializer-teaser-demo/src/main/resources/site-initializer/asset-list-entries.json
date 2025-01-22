@@ -1,7 +1,7 @@
 [
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "Retail Partners FAQ",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-FAQ$]",
+    "title": "M2H9 Retail Partners FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -25,8 +25,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "Products and Services FAQ",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-FAQ$]",
+    "title": "M2H9 Products and Services FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -50,8 +50,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "Pricing and Ordering FAQ",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-FAQ$]",
+    "title": "M2H9 Pricing and Ordering FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -75,8 +75,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:FAQ$]",
-    "title": "Returns and Exchanges FAQ",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-FAQ$]",
+    "title": "M2H9 Returns and Exchanges FAQ",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -100,8 +100,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:ANNOUNCEMENT$]",
-    "title": "Announcements",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-ANNOUNCEMENT$]",
+    "title": "M2H9 Announcements",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -110,8 +110,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:ARTICLE$]",
-    "title": "Helpful Articles Dynamic",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-ARTICLE$]",
+    "title": "M2H9 Helpful Articles Dynamic",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
@@ -120,8 +120,8 @@
     }
   },
   {
-    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:LEADERSHIP PROFILE$]",
-    "title": "Leadership",
+    "assetEntrySubtypeId": "[$DDM_STRUCTURE_ID:M2H9-LEADERSHIP-PROFILE$]",
+    "title": "M2H9 Leadership",
     "unicodeProperties": {
       "classNameIds": "com.liferay.journal.model.JournalArticle",
       "filterBy": [
