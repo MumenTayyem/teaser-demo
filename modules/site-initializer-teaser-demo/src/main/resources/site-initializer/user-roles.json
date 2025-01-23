@@ -5,13 +5,5 @@
 			"Distributor",
 			"User"
 		]
-	},
-	{
-		"emailAddress": "admin@clarityvisionsolutions.com",
-		"roles": [
-			"Administrator",
-			"Power User",
-			"User"
-		]
 	}
 ]
